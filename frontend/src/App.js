@@ -1,4 +1,4 @@
-import "./App.css";
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -14,7 +14,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { login, logout, selectUser } from "./feature/userSlice";
 import { useEffect } from "react";
 import { auth } from "./firebase";
-
+import Chatbot from "./chatbot";
 function App() {
   const user = useSelector(selectUser);
   const dispatch = useDispatch();
@@ -66,6 +66,7 @@ function App() {
           <PrivateRoute exact path="/" component={StackOverflow} />
           <PrivateRoute exact path="/add-question" component={AddQuestion} />
           <PrivateRoute exact path="/question" component={ViewQuestion} />
+          <Route  path="/chatbot/:id" component={Chatbot} />
         </Switch>
       </Router>
     </div>

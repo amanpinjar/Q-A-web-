@@ -32,6 +32,11 @@ function AllQuestions({ data }) {
         </div>
         <div className="question-answer">
           <Link to={`/question?q=${data?._id}`}>{data.title}</Link>
+          <Link to={`/chatbot/${data?.title}`} target="_blank">
+            <button style={{width: "150px",margin:"10px",background:"#10A37F"}}>Ans by chatGPT</button>
+          </Link>
+          
+
 
           {/* <a href=>{data.title}</a> */}
 

@@ -6,6 +6,7 @@ import "./css/Sidebar.css";
 import { Link } from "react-router-dom";
 
 function Sidebar() {
+  const jobs = 'https://telegram.me/+hU-QXyyg_FdiYjE1'
   return (
     <div className="sidebar">
       <div className="sidebar-container">
@@ -25,10 +26,7 @@ function Sidebar() {
                 {/* <a href="/">Question</a> */}
               </div>
 
-              <div className="tags">
-                <p>Tags</p>
-                <p>Users</p>
-              </div>
+             
             </div>
           </div>
           <div className="sidebar-option">
@@ -49,9 +47,9 @@ function Sidebar() {
                 style={{
                   margin: "10px 20px",
                 }}
-                to="/"
+                target="_blank"
               >
-                Jobs
+                <a href={jobs} target="_blank">Jobs</a>
               </Link>
               {/* <a
                 style={{
@@ -75,7 +73,7 @@ function Sidebar() {
                 }}
                 to="/"
               >
-                Companies
+                
               </Link>
             </div>
           </div>
@@ -83,8 +81,8 @@ function Sidebar() {
             <p>TEAMS</p>
             <div className="link-tag">
               <WorkIcon />
-              <Link to="/">Companies</Link>
-              {/* <a href="/">Companies</a> */}
+              
+              { <a href="https://www.business-standard.com/companies" target="_blank    ">Companies</a> }
             </div>
           </div>
         </div>

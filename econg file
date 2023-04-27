@@ -1,0 +1,2715 @@
+warning: LF will be replaced by CRLF in frontend/node_modules/.package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/checkPropTypes.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/factoryWithThrowingShims.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/factoryWithTypeCheckers.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/node_modules/prop-types/prop-types.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/public/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/src/App.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/src/components/AddQuestion/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/src/components/Header/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/src/components/StackOverflow/AllQuestions.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in frontend/src/components/StackOverflow/Sidebar.js.
+The file will have its original line endings in your working directory
+[1mdiff --git a/frontend/node_modules/.cache/.eslintcache b/frontend/node_modules/.cache/.eslintcache[m
+[1mindex 5eb79593..3daa1f40 100644[m
+[1m--- a/frontend/node_modules/.cache/.eslintcache[m
+[1m+++ b/frontend/node_modules/.cache/.eslintcache[m
+[36m@@ -1 +1 @@[m
+[31m-[{"D:\\q-a\\frontend\\src\\index.js":"1","D:\\q-a\\frontend\\src\\reportWebVitals.js":"2","D:\\q-a\\frontend\\src\\App.js":"3","D:\\q-a\\frontend\\src\\app\\store.js":"4","D:\\q-a\\frontend\\src\\firebase.js":"5","D:\\q-a\\frontend\\src\\feature\\userSlice.js":"6","D:\\q-a\\frontend\\src\\components\\ViewQuestion\\index.js":"7","D:\\q-a\\frontend\\src\\components\\Header\\index.js":"8","D:\\q-a\\frontend\\src\\components\\Auth\\index.js":"9","D:\\q-a\\frontend\\src\\components\\StackOverflow\\index.js":"10","D:\\q-a\\frontend\\src\\components\\AddQuestion\\index.js":"11","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Sidebar.js":"12","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Main.js":"13","D:\\q-a\\frontend\\src\\components\\ViewQuestion\\MainQuestion.js":"14","D:\\q-a\\frontend\\src\\components\\StackOverflow\\AllQuestions.js":"15","D:\\q-a\\frontend\\src\\utils\\Avatar.js":"16"},{"size":689,"mtime":1678177676082,"results":"17","hashOfConfig":"18"},{"size":362,"mtime":1678172718442,"results":"19","hashOfConfig":"18"},{"size":1875,"mtime":1678172718331,"results":"20","hashOfConfig":"18"},{"size":271,"mtime":1678172718469,"results":"21","hashOfConfig":"18"},{"size":659,"mtime":1678259196069,"results":"22","hashOfConfig":"18"},{"size":438,"mtime":1678172719077,"results":"23","hashOfConfig":"18"},{"size":348,"mtime":1678172719050,"results":"24","hashOfConfig":"18"},{"size":2936,"mtime":1678178193428,"results":"25","hashOfConfig":"18"},{"size":5657,"mtime":1678179070676,"results":"26","hashOfConfig":"18"},{"size":668,"mtime":1678172718857,"results":"27","hashOfConfig":"18"},{"size":4914,"mtime":1678172718548,"results":"28","hashOfConfig":"18"},{"size":2563,"mtime":1678172718820,"results":"29","hashOfConfig":"18"},{"size":1711,"mtime":1678172718781,"results":"30","hashOfConfig":"18"},{"size":9902,"mtime":1678172719010,"results":"31","hashOfConfig":"18"},{"size":2262,"mtime":1678172718743,"results":"32","hashOfConfig":"18"},{"size":615,"mtime":1678172719106,"results":"33","hashOfConfig":"18"},{"filePath":"34","messages":"35","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},"1a9qggi",{"filePath":"37","messages":"38","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"39","messages":"40","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"41","messages":"42","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"43","messages":"44","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"45"},{"filePath":"46","messages":"47","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"48","messages":"49","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"50","messages":"51","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"52","messages":"53","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"54","messages":"55","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"56","messages":"57","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"58","usedDeprecatedRules":"36"},{"filePath":"59","messages":"60","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"61","messages":"62","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"63","messages":"64","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},{"filePath":"65","messages":"66","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"67","usedDeprecatedRules":"36"},{"filePath":"68","messages":"69","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"36"},"D:\\q-a\\frontend\\src\\index.js",[],["70","71"],"D:\\q-a\\frontend\\src\\reportWebVitals.js",[],"D:\\q-a\\frontend\\src\\App.js",[],"D:\\q-a\\frontend\\src\\app\\store.js",[],"D:\\q-a\\frontend\\src\\firebase.js",["72"],"import { initializeApp } from \"firebase/app\";\nimport { getAuth, GoogleAuthProvider } from \"firebase/auth\";\nconst firebaseConfig = {\n  apiKey: \"AIzaSyAm2j5QCRCCJlRX0r1qBG_be1bXdXSRdyY\",\n  authDomain: \"stackoverflow-3f0d8.firebaseapp.com\",\n  projectId: \"stackoverflow-3f0d8\",\n  storageBucket: \"stackoverflow-3f0d8.appspot.com\",\n  messagingSenderId: \"76298589116\",\n  appId: \"1:76298589116:web:26ce6feaf0025dbdd511b9\",\n  measurementId: \"G-LDJE2JW8YE\",\n};\n\nconst firebaseApp = initializeApp(firebaseConfig);\n// const db = firebaseApp.firestore();\nconst auth = getAuth();\nconst provider = new GoogleAuthProvider();\n\nexport { auth, provider };\n// export default db;\n","D:\\q-a\\frontend\\src\\feature\\userSlice.js",[],"D:\\q-a\\frontend\\src\\components\\ViewQuestion\\index.js",[],"D:\\q-a\\frontend\\src\\components\\Header\\index.js",[],"D:\\q-a\\frontend\\src\\components\\Auth\\index.js",[],"D:\\q-a\\frontend\\src\\components\\StackOverflow\\index.js",[],"D:\\q-a\\frontend\\src\\components\\AddQuestion\\index.js",["73"],"import React, { useEffect, useState } from \"react\";\nimport { useSelector } from \"react-redux\";\nimport ReactQuill from \"react-quill\";\nimport \"react-quill/dist/quill.snow.css\"; // ES6\nimport \"./index.css\";\nimport Editor from \"react-quill/lib/toolbar\";\nimport axios from \"axios\";\nimport { TagsInput } from \"react-tag-input-component\";\nimport { selectUser } from \"../../feature/userSlice\";\nimport { useHistory } from \"react-router-dom\";\n// import ChipsArray from \"./TagsInput\";\n\nfunction Index() {\n  const user = useSelector(selectUser);\n  var toolbarOptions = [\n    [\"bold\", \"italic\", \"underline\", \"strike\"], // toggled buttons\n    [\"blockquote\", \"code-block\"],\n\n    [{ header: 1 }, { header: 2 }], // custom button values\n    [{ list: \"ordered\" }, { list: \"bullet\" }],\n    [{ script: \"sub\" }, { script: \"super\" }], // superscript/subscript\n    [{ indent: \"-1\" }, { indent: \"+1\" }], // outdent/indent\n    [{ direction: \"rtl\" }], // text direction\n\n    [{ size: [\"small\", false, \"large\", \"huge\"] }], // custom dropdown\n    [{ header: [1, 2, 3, 4, 5, 6, false] }],\n\n    [{ color: [] }, { background: [] }], // dropdown with defaults from theme\n    [{ font: [] }],\n    [{ align: [] }],\n\n    [\"clean\"], // remove formatting button\n  ];\n  Editor.modules = {\n    syntax: false,\n    toolbar: toolbarOptions,\n    clipboard: {\n      // toggle to add extra line breaks when pasting HTML:\n      matchVisual: false,\n    },\n  };\n  /*\n   * Quill editor formats\n   * See https://quilljs.com/docs/formats/\n   */\n  Editor.formats = [\n    \"header\",\n    \"font\",\n    \"size\",\n    \"bold\",\n    \"italic\",\n    \"underline\",\n    \"strike\",\n    \"blockquote\",\n    \"list\",\n    \"bullet\",\n    \"indent\",\n    \"link\",\n    \"image\",\n    \"video\",\n  ];\n\n  /*\n   * PropType validation\n   */\n\n  const [title, setTitle] = useState(\"\");\n  const [body, setBody] = useState(\"\");\n  const [tag, setTag] = useState([]);\n  const history = useHistory();\n\n  const handleQuill = (value) => {\n    setBody(value);\n  };\n\n  const handleSubmit = async (e) => {\n    e.preventDefault();\n\n    if (title !== \"\" && body !== \"\") {\n      const bodyJSON = {\n        title: title,\n        body: body,\n        tag: JSON.stringify(tag),\n        user: user,\n      };\n      await axios\n        .post(\"/api/question\", bodyJSON)\n        .then((res) => {\n          // console.log(res.data);\n          alert(\"Question added successfully\");\n          history.push(\"/\");\n        })\n        .catch((err) => {\n          console.log(err);\n        });\n    }\n  };\n  return (\n    <div className=\"add-question\">\n      <div className=\"add-question-container\">\n        <div className=\"head-title\">\n          <h1>Ask a public question</h1>\n        </div>\n        <div className=\"question-container\">\n          <div className=\"question-options\">\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Title</h3>\n                <small>\n                  Be specific and imagine you’re asking a question to another\n                  person\n                </small>\n                <input\n                  value={title}\n                  onChange={(e) => setTitle(e.target.value)}\n                  type=\"text\"\n                  placeholder=\"e.g Is there an R function for finding teh index of an element in a vector?\"\n                />\n              </div>\n            </div>\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Body</h3>\n                <small>\n                  Include all the information someone would need to answer your\n                  question\n                </small>\n                <ReactQuill\n                  value={body}\n                  onChange={handleQuill}\n                  modules={Editor.modules}\n                  className=\"react-quill\"\n                  theme=\"snow\"\n                />\n              </div>\n            </div>\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Tags</h3>\n                <small>\n                  Add up to 5 tags to describe what your question is about\n                </small>\n                {/* <input\n                  value={tag}\n                  onChange={(e) => setTag(e.target.value)}\n                  data-role=\"tagsinput\"\n                  data-tag-trigger=\"Space\"\n                  type=\"text\"\n                  placeholder=\"e.g. (asp.net-mvc php react json)\"\n                /> */}\n\n                <TagsInput\n                  value={tag}\n                  onChange={setTag}\n                  name=\"fruits\"\n                  placeHolder=\"press enter to add new tag\"\n                />\n\n                {/* <ChipsArray /> */}\n              </div>\n            </div>\n          </div>\n        </div>\n\n        <button onClick={handleSubmit} className=\"button\">\n          Add your question\n        </button>\n      </div>\n    </div>\n  );\n}\n\nexport default Index;\n","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Sidebar.js",[],"D:\\q-a\\frontend\\src\\components\\StackOverflow\\Main.js",[],"D:\\q-a\\frontend\\src\\components\\ViewQuestion\\MainQuestion.js",[],"D:\\q-a\\frontend\\src\\components\\StackOverflow\\AllQuestions.js",["74"],"import { Avatar } from \"@material-ui/core\";\nimport React, { useState } from \"react\";\nimport \"./css/AllQuestions.css\";\nimport ReactHtmlParser from \"react-html-parser\";\nimport { Link } from \"react-router-dom\";\nimport { stringAvatar } from \"../../utils/Avatar\";\n\nfunction AllQuestions({ data }) {\n  function truncate(str, n) {\n    return str?.length > n ? str.substr(0, n - 1) + \"...\" : str;\n  }\n\n  let tags = JSON.parse(data?.tags[0]);\n  // console.log();\n  return (\n    <div className=\"all-questions\">\n      <div className=\"all-questions-container\">\n        <div className=\"all-questions-left\">\n          <div className=\"all-options\">\n            <div className=\"all-option\">\n              <p>0</p>\n              <span>votes</span>\n            </div>\n            <div className=\"all-option\">\n              <p>{data?.answerDetails?.length}</p>\n              <span>answers</span>\n            </div>\n            <div className=\"all-option\">\n              <small>2 views</small>\n            </div>\n          </div>\n        </div>\n        <div className=\"question-answer\">\n          <Link to={`/question?q=${data?._id}`}>{data.title}</Link>\n\n          {/* <a href=>{data.title}</a> */}\n\n          <div\n            style={{\n              maxWidth: \"90%\",\n            }}\n          >\n            <div>{ReactHtmlParser(truncate(data.body, 200))}</div>\n          </div>\n          <div\n            style={{\n              display: \"flex\",\n            }}\n          >\n            {tags.map((_tag) => (\n              <p\n                style={{\n                  margin: \"10px 5px\",\n                  padding: \"5px 10px\",\n                  backgroundColor: \"#007cd446\",\n                  borderRadius: \"3px\",\n                }}\n              >\n                {_tag}\n              </p>\n            ))}\n          </div>\n          <div className=\"author\">\n            <small>{data.create_at}</small>\n            <div className=\"auth-details\">\n              <Avatar {...stringAvatar(data?.user?.displayName)} />\n              <p>\n                {data?.user?.displayName\n                  ? data?.user?.displayName\n                  : \"Natalie lee\"}\n              </p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n}\n\nexport default AllQuestions;\n","D:\\q-a\\frontend\\src\\utils\\Avatar.js",[],{"ruleId":"75","replacedBy":"76"},{"ruleId":"77","replacedBy":"78"},{"ruleId":"79","severity":1,"message":"80","line":13,"column":7,"nodeType":"81","messageId":"82","endLine":13,"endColumn":18},{"ruleId":"79","severity":1,"message":"83","line":1,"column":17,"nodeType":"81","messageId":"82","endLine":1,"endColumn":26},{"ruleId":"79","severity":1,"message":"84","line":2,"column":17,"nodeType":"81","messageId":"82","endLine":2,"endColumn":25},"no-native-reassign",["85"],"no-negated-in-lhs",["86"],"no-unused-vars","'firebaseApp' is assigned a value but never used.","Identifier","unusedVar","'useEffect' is defined but never used.","'useState' is defined but never used.","no-global-assign","no-unsafe-negation"][m
+\ No newline at end of file[m
+[32m+[m[32m[{"D:\\q-a\\frontend\\src\\index.js":"1","D:\\q-a\\frontend\\src\\reportWebVitals.js":"2","D:\\q-a\\frontend\\src\\App.js":"3","D:\\q-a\\frontend\\src\\app\\store.js":"4","D:\\q-a\\frontend\\src\\firebase.js":"5","D:\\q-a\\frontend\\src\\feature\\userSlice.js":"6","D:\\q-a\\frontend\\src\\components\\ViewQuestion\\index.js":"7","D:\\q-a\\frontend\\src\\components\\Header\\index.js":"8","D:\\q-a\\frontend\\src\\components\\Auth\\index.js":"9","D:\\q-a\\frontend\\src\\components\\StackOverflow\\index.js":"10","D:\\q-a\\frontend\\src\\components\\AddQuestion\\index.js":"11","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Sidebar.js":"12","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Main.js":"13","D:\\q-a\\frontend\\src\\components\\ViewQuestion\\MainQuestion.js":"14","D:\\q-a\\frontend\\src\\components\\StackOverflow\\AllQuestions.js":"15","D:\\q-a\\frontend\\src\\utils\\Avatar.js":"16","D:\\q-a\\frontend\\src\\chatbot\\index.js":"17"},{"size":689,"mtime":1678177676082,"results":"18","hashOfConfig":"19"},{"size":362,"mtime":1678172718442,"results":"20","hashOfConfig":"19"},{"size":1949,"mtime":1682073272665,"results":"21","hashOfConfig":"19"},{"size":271,"mtime":1678172718469,"results":"22","hashOfConfig":"19"},{"size":659,"mtime":1678259196069,"results":"23","hashOfConfig":"19"},{"size":438,"mtime":1678172719077,"results":"24","hashOfConfig":"19"},{"size":348,"mtime":1678172719050,"results":"25","hashOfConfig":"19"},{"size":2425,"mtime":1682069413167,"results":"26","hashOfConfig":"19"},{"size":5657,"mtime":1678179070676,"results":"27","hashOfConfig":"19"},{"size":668,"mtime":1678172718857,"results":"28","hashOfConfig":"19"},{"size":4837,"mtime":1682099136693,"results":"29","hashOfConfig":"19"},{"size":2581,"mtime":1682069337767,"results":"30","hashOfConfig":"19"},{"size":1711,"mtime":1678172718781,"results":"31","hashOfConfig":"19"},{"size":9902,"mtime":1678172719010,"results":"32","hashOfConfig":"19"},{"size":2460,"mtime":1682073684495,"results":"33","hashOfConfig":"19"},{"size":615,"mtime":1678172719106,"results":"34","hashOfConfig":"19"},{"size":3266,"mtime":1682095376680,"results":"35","hashOfConfig":"19"},{"filePath":"36","messages":"37","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},"1a9qggi",{"filePath":"39","messages":"40","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"41","messages":"42","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"43","messages":"44","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"45","messages":"46","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"47","usedDeprecatedRules":"38"},{"filePath":"48","messages":"49","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"50","messages":"51","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"52","messages":"53","errorCount":0,"fatalErrorCount":0,"warningCount":2,"fixableErrorCount":0,"fixableWarningCount":0,"source":"54","usedDeprecatedRules":"38"},{"filePath":"55","messages":"56","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"57","messages":"58","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"59","messages":"60","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"61"},{"filePath":"62","messages":"63","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":1,"source":"64","usedDeprecatedRules":"38"},{"filePath":"65","messages":"66","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"67","messages":"68","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"69","messages":"70","errorCount":0,"fatalErrorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":"71","usedDeprecatedRules":"38"},{"filePath":"72","messages":"73","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},{"filePath":"74","messages":"75","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"38"},"D:\\q-a\\frontend\\src\\index.js",[],["76","77"],"D:\\q-a\\frontend\\src\\reportWebVitals.js",[],"D:\\q-a\\frontend\\src\\App.js",[],"D:\\q-a\\frontend\\src\\app\\store.js",[],"D:\\q-a\\frontend\\src\\firebase.js",["78"],"import { initializeApp } from \"firebase/app\";\nimport { getAuth, GoogleAuthProvider } from \"firebase/auth\";\nconst firebaseConfig = {\n  apiKey: \"AIzaSyAm2j5QCRCCJlRX0r1qBG_be1bXdXSRdyY\",\n  authDomain: \"stackoverflow-3f0d8.firebaseapp.com\",\n  projectId: \"stackoverflow-3f0d8\",\n  storageBucket: \"stackoverflow-3f0d8.appspot.com\",\n  messagingSenderId: \"76298589116\",\n  appId: \"1:76298589116:web:26ce6feaf0025dbdd511b9\",\n  measurementId: \"G-LDJE2JW8YE\",\n};\n\nconst firebaseApp = initializeApp(firebaseConfig);\n// const db = firebaseApp.firestore();\nconst auth = getAuth();\nconst provider = new GoogleAuthProvider();\n\nexport { auth, provider };\n// export default db;\n","D:\\q-a\\frontend\\src\\feature\\userSlice.js",[],"D:\\q-a\\frontend\\src\\components\\ViewQuestion\\index.js",[],"D:\\q-a\\frontend\\src\\components\\Header\\index.js",["79","80"],"import React from \"react\";\nimport \"./css/index.css\";\nimport SearchIcon from \"@material-ui/icons/Search\";\nimport { Avatar } from \"@material-ui/core\";\n// import Avatar from \"@mui/material/Avatar\";\nimport InboxIcon from \"@material-ui/icons/Inbox\";\nimport HelpIcon from \"@material-ui/icons/Help\";\nimport { Link } from \"react-router-dom\";\nimport { auth } from \"../../firebase\";\nimport { useSelector } from \"react-redux\";\nimport { selectUser } from \"../../feature/userSlice\";\n\nfunction Header() {\n  const user = useSelector(selectUser);\n  // console.log(user);\n  function stringToColor(string) {\n    let hash = 0;\n    let i;\n\n    /* eslint-disable no-bitwise */\n    for (i = 0; i < string.length; i += 1) {\n      hash = string.charCodeAt(i) + ((hash << 5) - hash);\n    }\n\n    let color = \"#\";\n\n    for (i = 0; i < 3; i += 1) {\n      const value = (hash >> (i * 8)) & 0xff;\n      color += `00${value.toString(16)}`.substr(-2);\n    }\n    /* eslint-enable no-bitwise */\n\n    return color;\n  }\n\n  function stringAvatar(name) {\n    return {\n      sx: {\n        bgcolor: name ? stringToColor(name) : \"rgba(255,255,255,0.8)\",\n      },\n      children: name && `${name.split(\" \")[0][0]}${name.split(\" \")[1][0]}`,\n    };\n  }\n  return (\n    <header>\n      <div className=\"header-container\">\n        <div className=\"header-left\">\n          <Link to=\"/\">\n            <img\n              src=\"./Q_A.jpeg\"\n              width={\"200px\"}\n              alt=\"logo\"\n            />\n          </Link>\n          {/* <a href=\"/\">\n            \n          </a> */}\n\n          \n        </div>\n        <div className=\"header-middle\">\n          <div className=\"header-search-container\">\n            <SearchIcon />\n            <input type=\"text\" placeholder=\"Search...\" />\n          </div>\n        </div>\n        <div className=\"header-right\">\n          <div className=\"header-right-container\">\n            {window.innerWidth < 768 && <SearchIcon />}\n\n            <Avatar\n              style={{\n                cursor: \"pointer\",\n              }}\n              {...stringAvatar(user && user.displayName)}\n              onClick={() => auth.signOut()}\n            />\n           \n           \n            {/* <img\n              src=\"https://symbols-electrical.getvecta.com/stencil_96/73_stack-exchange-icon.bbd1a14a04.svg\"\n              alt=\"stack-exchange\"\n            /> */}\n          </div>\n        </div>\n      </div>\n    </header>\n  );\n}\n\nexport default Header;\n","D:\\q-a\\frontend\\src\\components\\Auth\\index.js",[],"D:\\q-a\\frontend\\src\\components\\StackOverflow\\index.js",[],"D:\\q-a\\frontend\\src\\components\\AddQuestion\\index.js",["81"],"import React, { useEffect, useState } from \"react\";\nimport { useSelector } from \"react-redux\";\nimport ReactQuill from \"react-quill\";\nimport \"react-quill/dist/quill.snow.css\"; // ES6\nimport \"./index.css\";\nimport Editor from \"react-quill/lib/toolbar\";\nimport axios from \"axios\";\nimport { TagsInput } from \"react-tag-input-component\";\nimport { selectUser } from \"../../feature/userSlice\";\nimport { useHistory } from \"react-router-dom\";\n// import ChipsArray from \"./TagsInput\";\n\nfunction Index() {\n  const user = useSelector(selectUser);\n  var toolbarOptions = [\n    [\"bold\", \"italic\", \"underline\", \"strike\"], // toggled buttons\n    [\"blockquote\", \"code-block\"],\n\n    [{ header: 1 }, { header: 2 }], // custom button values\n    [{ list: \"ordered\" }, { list: \"bullet\" }],\n    [{ script: \"sub\" }, { script: \"super\" }], // superscript/subscript\n    [{ indent: \"-1\" }, { indent: \"+1\" }], // outdent/indent\n    [{ direction: \"rtl\" }], // text direction\n\n    [{ size: [\"small\", false, \"large\", \"huge\"] }], // custom dropdown\n    [{ header: [1, 2, 3, 4, 5, 6, false] }],\n\n    [{ color: [] }, { background: [] }], // dropdown with defaults from theme\n    [{ font: [] }],\n    [{ align: [] }],\n\n    [\"clean\"], // remove formatting button\n  ];\n  Editor.modules = {\n    syntax: false,\n    toolbar: toolbarOptions,\n    clipboard: {\n      // toggle to add extra line breaks when pasting HTML:\n      matchVisual: false,\n    },\n  };\n  \n  Editor.formats = [\n    \"header\",\n    \"font\",\n    \"size\",\n    \"bold\",\n    \"italic\",\n    \"underline\",\n    \"strike\",\n    \"blockquote\",\n    \"list\",\n    \"bullet\",\n    \"indent\",\n    \"link\",\n    \"image\",\n    \"video\",\n  ];\n\n  /*\n   * PropType validation\n   */\n\n  const [title, setTitle] = useState(\"\");\n  const [body, setBody] = useState(\"\");\n  const [tag, setTag] = useState([]);\n  const history = useHistory();\n\n  const handleQuill = (value) => {\n    setBody(value);\n  };\n\n  const handleSubmit = async (e) => {\n    e.preventDefault();\n\n    if (title !== \"\" && body !== \"\") {\n      const bodyJSON = {\n        title: title,\n        body: body,\n        tag: JSON.stringify(tag),\n        user: user,\n      };\n      await axios\n        .post(\"/api/question\", bodyJSON)\n        .then((res) => {\n          // console.log(res.data);\n          alert(\"Question added successfully\");\n          history.push(\"/\");\n        })\n        .catch((err) => {\n          console.log(err);\n        });\n    }\n  };\n  return (\n    <div className=\"add-question\">\n      <div className=\"add-question-container\">\n        <div className=\"head-title\">\n          <h1>Ask a public question</h1>\n        </div>\n        <div className=\"question-container\">\n          <div className=\"question-options\">\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Title</h3>\n                <small>\n                  Be specific and imagine you’re asking a question to another\n                  person\n                </small>\n                <input\n                  value={title}\n                  onChange={(e) => setTitle(e.target.value)}\n                  type=\"text\"\n                  placeholder=\"e.g Is there an R function for finding teh index of an element in a vector?\"\n                />\n              </div>\n            </div>\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Body</h3>\n                <small>\n                  Include all the information someone would need to answer your\n                  question\n                </small>\n                <ReactQuill\n                  value={body}\n                  onChange={handleQuill}\n                  modules={Editor.modules}\n                  className=\"react-quill\"\n                  theme=\"snow\"\n                />\n              </div>\n            </div>\n            <div className=\"question-option\">\n              <div className=\"title\">\n                <h3>Tags</h3>\n                <small>\n                  Add up to 5 tags to describe what your question is about\n                </small>\n                {/* <input\n                  value={tag}\n                  onChange={(e) => setTag(e.target.value)}\n                  data-role=\"tagsinput\"\n                  data-tag-trigger=\"Space\"\n                  type=\"text\"\n                  placeholder=\"e.g. (asp.net-mvc php react json)\"\n                /> */}\n\n                <TagsInput\n                  value={tag}\n                  onChange={setTag}\n                  name=\"fruits\"\n                  placeHolder=\"press enter to add new tag\"\n                />\n\n                {/* <ChipsArray /> */}\n              </div>\n            </div>\n          </div>\n        </div>\n\n        <button onClick={handleSubmit} className=\"button\">\n          Add your question\n        </button>\n      </div>\n    </div>\n  );\n}\n\nexport default Index;\n","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Sidebar.js",["82"],"import React from \"react\";\nimport PublicIcon from \"@material-ui/icons/Public\";\nimport StarsIcon from \"@material-ui/icons/Stars\";\nimport WorkIcon from \"@material-ui/icons/Work\";\nimport \"./css/Sidebar.css\";\nimport { Link } from \"react-router-dom\";\n\nfunction Sidebar() {\n  const jobs = 'https://telegram.me/+hU-QXyyg_FdiYjE1'\n  return (\n    <div className=\"sidebar\">\n      <div className=\"sidebar-container\">\n        <div className=\"sidebar-options\">\n          <div className=\"sidebar-option\">\n            <Link to=\"/\">Home</Link>\n\n            {/* <a href=\"/\">Home</a> */}\n          </div>\n          <div className=\"sidebar-option\">\n            <p>PUBLIC</p>\n            <div className=\"link\">\n              <div className=\"link-tag\">\n                <PublicIcon />\n                <Link to=\"/\">Question</Link>\n\n                {/* <a href=\"/\">Question</a> */}\n              </div>\n\n             \n            </div>\n          </div>\n          <div className=\"sidebar-option\">\n            <p>COLLECTIVES</p>\n            <div className=\"link\">\n              <div className=\"link-tag\">\n                <StarsIcon />\n                <Link to=\"/\">Explore Collectives</Link>\n\n                {/* <a href=\"/\">Explore Collectives</a> */}\n              </div>\n            </div>\n          </div>\n          <div className=\"sidebar-option\">\n            <p>FIND A JOB</p>\n            <div className=\"link\">\n              <Link\n                style={{\n                  margin: \"10px 20px\",\n                }}\n                target=\"_blank\"\n              >\n                <a href={jobs} target=\"_blank\">Jobs</a>\n              </Link>\n              {/* <a\n                style={{\n                  margin: \"10px 20px\",\n                }}\n                href=\"/\"\n              >\n                Jobs\n              </a> */}\n              {/* <a\n                style={{\n                  marginLeft: \"20px\",\n                }}\n                href=\"/\"\n              >\n                Companies\n              </a> */}\n              <Link\n                style={{\n                  marginLeft: \"20px\",\n                }}\n                to=\"/\"\n              >\n                \n              </Link>\n            </div>\n          </div>\n          <div className=\"sidebar-option\">\n            <p>TEAMS</p>\n            <div className=\"link-tag\">\n              <WorkIcon />\n              \n              { <a href=\"https://www.business-standard.com/companies\" target=\"_blank    \">Companies</a> }\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n}\n\nexport default Sidebar;\n","D:\\q-a\\frontend\\src\\components\\StackOverflow\\Main.js",[],"D:\\q-a\\frontend\\src\\components\\ViewQuestion\\MainQuestion.js",[],"D:\\q-a\\frontend\\src\\components\\StackOverflow\\AllQuestions.js",["83"],"import { Avatar } from \"@material-ui/core\";\nimport React, { useState } from \"react\";\nimport \"./css/AllQuestions.css\";\nimport ReactHtmlParser from \"react-html-parser\";\nimport { Link } from \"react-router-dom\";\nimport { stringAvatar } from \"../../utils/Avatar\";\n\nfunction AllQuestions({ data }) {\n  function truncate(str, n) {\n    return str?.length > n ? str.substr(0, n - 1) + \"...\" : str;\n  }\n\n  let tags = JSON.parse(data?.tags[0]);\n  // console.log();\n  return (\n    <div className=\"all-questions\">\n      <div className=\"all-questions-container\">\n        <div className=\"all-questions-left\">\n          <div className=\"all-options\">\n            <div className=\"all-option\">\n              <p>0</p>\n              <span>votes</span>\n            </div>\n            <div className=\"all-option\">\n              <p>{data?.answerDetails?.length}</p>\n              <span>answers</span>\n            </div>\n            <div className=\"all-option\">\n              <small>2 views</small>\n            </div>\n          </div>\n        </div>\n        <div className=\"question-answer\">\n          <Link to={`/question?q=${data?._id}`}>{data.title}</Link>\n          <Link to={`/chatbot/${data?.title}`} target=\"_blank\">\n            <button style={{width: \"150px\",margin:\"10px\",background:\"#10A37F\"}}>Ans by chatGPT</button>\n          </Link>\n          \n\n\n          {/* <a href=>{data.title}</a> */}\n\n          <div\n            style={{\n              maxWidth: \"90%\",\n            }}\n          >\n            <div>{ReactHtmlParser(truncate(data.body, 200))}</div>\n          </div>\n          <div\n            style={{\n              display: \"flex\",\n            }}\n          >\n            {tags.map((_tag) => (\n              <p\n                style={{\n                  margin: \"10px 5px\",\n                  padding: \"5px 10px\",\n                  backgroundColor: \"#007cd446\",\n                  borderRadius: \"3px\",\n                }}\n              >\n                {_tag}\n              </p>\n            ))}\n          </div>\n          <div className=\"author\">\n            <small>{data.create_at}</small>\n            <div className=\"auth-details\">\n              <Avatar {...stringAvatar(data?.user?.displayName)} />\n              <p>\n                {data?.user?.displayName\n                  ? data?.user?.displayName\n                  : \"Natalie lee\"}\n              </p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n}\n\nexport default AllQuestions;\n","D:\\q-a\\frontend\\src\\utils\\Avatar.js",[],"D:\\q-a\\frontend\\src\\chatbot\\index.js",[],{"ruleId":"84","replacedBy":"85"},{"ruleId":"86","replacedBy":"87"},{"ruleId":"88","severity":1,"message":"89","line":13,"column":7,"nodeType":"90","messageId":"91","endLine":13,"endColumn":18},{"ruleId":"88","severity":1,"message":"92","line":6,"column":8,"nodeType":"90","messageId":"91","endLine":6,"endColumn":17},{"ruleId":"88","severity":1,"message":"93","line":7,"column":8,"nodeType":"90","messageId":"91","endLine":7,"endColumn":16},{"ruleId":"88","severity":1,"message":"94","line":1,"column":17,"nodeType":"90","messageId":"91","endLine":1,"endColumn":26},{"ruleId":"95","severity":1,"message":"96","line":52,"column":17,"nodeType":"97","messageId":"98","endLine":52,"endColumn":48,"fix":"99"},{"ruleId":"88","severity":1,"message":"100","line":2,"column":17,"nodeType":"90","messageId":"91","endLine":2,"endColumn":25},"no-native-reassign",["101"],"no-negated-in-lhs",["102"],"no-unused-vars","'firebaseApp' is assigned a value but never used.","Identifier","unusedVar","'InboxIcon' is defined but never used.","'HelpIcon' is defined but never used.","'useEffect' is defined but never used.","react/jsx-no-target-blank","Using target=\"_blank\" without rel=\"noreferrer\" is a security risk: see https://html.spec.whatwg.org/multipage/links.html#link-type-noopener","JSXOpeningElement","noTargetBlank",{"range":"103","text":"104"},"'useState' is defined but never used.","no-global-assign","no-unsafe-negation",[1589,1589]," rel=\"noreferrer\""][m
+\ No newline at end of file[m
+[1mdiff --git a/frontend/node_modules/.package-lock.json b/frontend/node_modules/.package-lock.json[m
+[1mindex 26f73658..9d42c948 100644[m
+[1m--- a/frontend/node_modules/.package-lock.json[m
+[1m+++ b/frontend/node_modules/.package-lock.json[m
+[36m@@ -1,5 +1,5 @@[m
+ {[m
+[31m-  "name": "stackoverflow-clone",[m
+[32m+[m[32m  "name": "q-a",[m
+   "version": "0.1.0",[m
+   "lockfileVersion": 2,[m
+   "requires": true,[m
+[36m@@ -1754,6 +1754,35 @@[m
+       "resolved": "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz",[m
+       "integrity": "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw=="[m
+     },[m
+[32m+[m[32m    "node_modules/@blakeembrey/deque": {[m
+[32m+[m[32m      "version": "1.0.5",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@blakeembrey/deque/-/deque-1.0.5.tgz",[m
+[32m+[m[32m      "integrity": "sha512-6xnwtvp9DY1EINIKdTfvfeAtCYw4OqBZJhtiqkT3ivjnEfa25VQ3TsKvaFfKm8MyGIEfE95qLe+bNEt3nB0Ylg=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@chatscope/chat-ui-kit-react": {[m
+[32m+[m[32m      "version": "1.10.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-react/-/chat-ui-kit-react-1.10.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-pJIxvM9zR2oPk601P/S3Du1lZZSQcv76+8/IUhhWo88oy1iqiw2yk71T3nzE0sr8kRfZ8FoSSxOjVx9j7amjow==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@chatscope/chat-ui-kit-styles": "^1.2.0",[m
+[32m+[m[32m        "@fortawesome/fontawesome-free": "^5.12.1",[m
+[32m+[m[32m        "@fortawesome/fontawesome-svg-core": "^1.2.26",[m
+[32m+[m[32m        "@fortawesome/free-solid-svg-icons": "^5.12.0",[m
+[32m+[m[32m        "@fortawesome/react-fontawesome": "^0.1.8",[m
+[32m+[m[32m        "classnames": "^2.2.6",[m
+[32m+[m[32m        "prop-types": "^15.7.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "prop-types": "^15.7.2",[m
+[32m+[m[32m        "react": "^16.12.0 || ^17.0.0 || ^18.2.0",[m
+[32m+[m[32m        "react-dom": "^16.12.0 || ^17.0.0 || ^18.2.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@chatscope/chat-ui-kit-styles": {[m
+[32m+[m[32m      "version": "1.4.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-styles/-/chat-ui-kit-styles-1.4.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-016mBJD3DESw7Nh+lkKcPd22xG92ghA0VpIXIbjQtmXhC7Ve6wRazTy8z1Ahut+Tbv179+JxrftuMngsj/yV8Q=="[m
+[32m+[m[32m    },[m
+     "node_modules/@cnakazawa/watch": {[m
+       "version": "1.0.4",[m
+       "resolved": "https://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz",[m
+[36m@@ -2480,6 +2509,60 @@[m
+       "resolved": "https://registry.npmjs.org/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.6.1.tgz",[m
+       "integrity": "sha512-9FqhNjKQWpQ3fGnSOCovHOm+yhhiorKEqYLAfd525jWavunDJcx8rOW6i6ozAh+FbwcYMkL7b+3j4UR/30MpoQ=="[m
+     },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-common-types": {[m
+[32m+[m[32m      "version": "0.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-free": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-eYm8vijH/hpzr/6/1CJ/V/Eb1xQFW2nnUKArb3z+yUWv7HTwj6M7SP957oMjfZjAHU6qpoNc2wQvIxBLWYa/Jg==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-svg-core": {[m
+[32m+[m[32m      "version": "1.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-YUcsLQKYb6DmaJjIHdDWpBIGCcyE/W+p/LMGvjQem55Mm2XWVAP5kWTMKWLv9lwpCVjpLxPyOMOyUocP1GxrtA==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/free-solid-svg-icons": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/react-fontawesome": {[m
+[32m+[m[32m      "version": "0.1.19",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.19.tgz",[m
+[32m+[m[32m      "integrity": "sha512-Hyb+lB8T18cvLNX0S3llz7PcSOAJMLwiVKBuuzwM/nI5uoBw+gQjnf9il0fR1C3DKOI5Kc79pkJ4/xB0Uw9aFQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "prop-types": "^15.8.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-svg-core": "~1 || ~6",[m
+[32m+[m[32m        "react": ">=16.x"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/@grpc/grpc-js": {[m
+       "version": "1.4.4",[m
+       "resolved": "https://registry.npmjs.org/@grpc/grpc-js/-/grpc-js-1.4.4.tgz",[m
+[36m@@ -7061,6 +7144,11 @@[m
+         "node": ">=0.10.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/classnames": {[m
+[32m+[m[32m      "version": "2.3.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/classnames/-/classnames-2.3.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw=="[m
+[32m+[m[32m    },[m
+     "node_modules/clean-css": {[m
+       "version": "4.2.3",[m
+       "resolved": "https://registry.npmjs.org/clean-css/-/clean-css-4.2.3.tgz",[m
+[36m@@ -8895,6 +8983,20 @@[m
+         "url": "https://opencollective.com/eslint"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/eslint-config-prettier": {[m
+[32m+[m[32m      "version": "4.3.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-4.3.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-sZwhSTHVVz78+kYD3t5pCWSYEdVSBR0PXnwjDRsUs8ytIrK8PLXw+6FKp8r3Z7rx4ZszdetWlXYKOHoUrrwPlA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "get-stdin": "^6.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "eslint-config-prettier-check": "bin/cli.js"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "eslint": ">=3.14.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/eslint-config-react-app": {[m
+       "version": "6.0.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-config-react-app/-/eslint-config-react-app-6.0.0.tgz",[m
+[36m@@ -9237,6 +9339,26 @@[m
+       "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz",[m
+       "integrity": "sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg=="[m
+     },[m
+[32m+[m[32m    "node_modules/eslint-plugin-prettier": {[m
+[32m+[m[32m      "version": "3.4.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-3.4.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-htg25EUYUeIhKHXjOinK4BgCcDwtLHjqaxCDsMy5nbnUMkKFvIhMVCp+5GFUXQ4Nr8lBsPqtGAqBenbpFqAA2g==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "prettier-linter-helpers": "^1.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "eslint": ">=5.0.0",[m
+[32m+[m[32m        "prettier": ">=1.13.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependenciesMeta": {[m
+[32m+[m[32m        "eslint-config-prettier": {[m
+[32m+[m[32m          "optional": true[m
+[32m+[m[32m        }[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/eslint-plugin-react": {[m
+       "version": "7.24.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.24.0.tgz",[m
+[36m@@ -10670,6 +10792,14 @@[m
+         "node": ">=8.0.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/get-stdin": {[m
+[32m+[m[32m      "version": "6.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/get-stdin/-/get-stdin-6.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-jp4tHawyV7+fkkSKyvjuLZswblUtz+SQKzSWnBbii16BuZksJlU1wuBYXY75r+duh/llF1ur6oNwi+2ZzjKZ7g==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=4"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/get-stream": {[m
+       "version": "4.1.0",[m
+       "resolved": "https://registry.npmjs.org/get-stream/-/get-stream-4.1.0.tgz",[m
+[36m@@ -15747,6 +15877,238 @@[m
+         "wrappy": "1"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/onchange": {[m
+[32m+[m[32m      "version": "5.2.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/onchange/-/onchange-5.2.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-kBNMF4KU1m0GkZCANckQZs3N41esf950T/gv7JIjNS6qWS8R34+iCKk/wmVRPEdaYCA+yi2aK2vNXS0RaB/V2A==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@blakeembrey/deque": "^1.0.3",[m
+[32m+[m[32m        "arrify": "^1.0.1",[m
+[32m+[m[32m        "chokidar": "^2.0.0",[m
+[32m+[m[32m        "cross-spawn": "^6.0.0",[m
+[32m+[m[32m        "minimist": "^1.2.0",[m
+[32m+[m[32m        "supports-color": "^5.5.0",[m
+[32m+[m[32m        "tree-kill": "^1.2.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "onchange": "cli.js"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/anymatch": {[m
+[32m+[m[32m      "version": "2.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/anymatch/-/anymatch-2.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "micromatch": "^3.1.4",[m
+[32m+[m[32m        "normalize-path": "^2.1.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/anymatch/node_modules/normalize-path": {[m
+[32m+[m[32m      "version": "2.1.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/normalize-path/-/normalize-path-2.1.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-3pKJwH184Xo/lnH6oyP1q2pMd7HcypqqmRs91/6/i2CGtWwIKGCkOOMTm/zXbgTEWHw1uNpNi/igc3ePOYHb6w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "remove-trailing-separator": "^1.0.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/arrify": {[m
+[32m+[m[32m      "version": "1.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/arrify/-/arrify-1.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-3CYzex9M9FGQjCGMGyi6/31c8GJbgb0qGyrx5HWxPd0aCwh4cB2YjMb2Xf9UuoogrMrlO9cTqnB5rI5GHZTcUA==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/binary-extensions": {[m
+[32m+[m[32m      "version": "1.13.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-1.13.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-Un7MIEDdUC5gNpcGDV97op1Ywk748MpHcFTHoYs6qnj1Z3j7I53VG3nwZhKzoBZmbdRNnb6WRdFlwl7tSDuZGw==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/braces": {[m
+[32m+[m[32m      "version": "2.3.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/braces/-/braces-2.3.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "arr-flatten": "^1.1.0",[m
+[32m+[m[32m        "array-unique": "^0.3.2",[m
+[32m+[m[32m        "extend-shallow": "^2.0.1",[m
+[32m+[m[32m        "fill-range": "^4.0.0",[m
+[32m+[m[32m        "isobject": "^3.0.1",[m
+[32m+[m[32m        "repeat-element": "^1.1.2",[m
+[32m+[m[32m        "snapdragon": "^0.8.1",[m
+[32m+[m[32m        "snapdragon-node": "^2.0.1",[m
+[32m+[m[32m        "split-string": "^3.0.2",[m
+[32m+[m[32m        "to-regex": "^3.0.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/braces/node_modules/extend-shallow": {[m
+[32m+[m[32m      "version": "2.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extendable": "^0.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/chokidar": {[m
+[32m+[m[32m      "version": "2.1.8",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/chokidar/-/chokidar-2.1.8.tgz",[m
+[32m+[m[32m      "integrity": "sha512-ZmZUazfOzf0Nve7duiCKD23PFSCs4JPoYyccjUFF3aQkQadqBhfzhjkwBH2mNOG9cTBwhamM37EIsIkZw3nRgg==",[m
+[32m+[m[32m      "deprecated": "Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "anymatch": "^2.0.0",[m
+[32m+[m[32m        "async-each": "^1.0.1",[m
+[32m+[m[32m        "braces": "^2.3.2",[m
+[32m+[m[32m        "glob-parent": "^3.1.0",[m
+[32m+[m[32m        "inherits": "^2.0.3",[m
+[32m+[m[32m        "is-binary-path": "^1.0.0",[m
+[32m+[m[32m        "is-glob": "^4.0.0",[m
+[32m+[m[32m        "normalize-path": "^3.0.0",[m
+[32m+[m[32m        "path-is-absolute": "^1.0.0",[m
+[32m+[m[32m        "readdirp": "^2.2.1",[m
+[32m+[m[32m        "upath": "^1.1.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "optionalDependencies": {[m
+[32m+[m[32m        "fsevents": "^1.2.7"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/fill-range": {[m
+[32m+[m[32m      "version": "4.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/fill-range/-/fill-range-4.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-VcpLTWqWDiTerugjj8e3+esbg+skS3M9e54UuR3iCeIDMXCLTsAH8hTSzDQU/X6/6t3eYkOKoZSef2PlU6U1XQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "extend-shallow": "^2.0.1",[m
+[32m+[m[32m        "is-number": "^3.0.0",[m
+[32m+[m[32m        "repeat-string": "^1.6.1",[m
+[32m+[m[32m        "to-regex-range": "^2.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/fill-range/node_modules/extend-shallow": {[m
+[32m+[m[32m      "version": "2.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extendable": "^0.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/glob-parent": {[m
+[32m+[m[32m      "version": "3.1.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/glob-parent/-/glob-parent-3.1.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-E8Ak/2+dZY6fnzlR7+ueWvhsH1SjHr4jjss4YS/h4py44jY9MhK/VFdaZJAWDz6BbL21KeteKxFSFpq8OS5gVA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-glob": "^3.1.0",[m
+[32m+[m[32m        "path-dirname": "^1.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/glob-parent/node_modules/is-glob": {[m
+[32m+[m[32m      "version": "3.1.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-glob/-/is-glob-3.1.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-UFpDDrPgM6qpnFNI+rh/p3bUaq9hKLZN8bMUWzxmcnZVS3omf4IPK+BrewlnWjO1WmUsMYuSjKh4UJuV4+Lqmw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extglob": "^2.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-binary-path": {[m
+[32m+[m[32m      "version": "1.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-1.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-9fRVlXc0uCxEDj1nQzaWONSpbTfx0FmJfzHF7pwlI8DkWGoHBBea4Pg5Ky0ojwwxQmnSifgbKkI06Qv0Ljgj+Q==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "binary-extensions": "^1.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-number": {[m
+[32m+[m[32m      "version": "3.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-number/-/is-number-3.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-4cboCqIpliH+mAvFNegjZQ4kgKc3ZUhQVr3HvWbSh5q3WH2v82ct+T2Y1hdU5Gdtorx/cLifQjqCbL7bpznLTg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "kind-of": "^3.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-number/node_modules/kind-of": {[m
+[32m+[m[32m      "version": "3.2.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-3.2.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-NOW9QQXMoZGg/oqnVNoNTTIFEIid1627WCffUBJEdMxYApq7mNE7CpzucIPc+ZQg25Phej7IJSmX3hO+oblOtQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-buffer": "^1.1.5"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/micromatch": {[m
+[32m+[m[32m      "version": "3.1.10",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz",[m
+[32m+[m[32m      "integrity": "sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "arr-diff": "^4.0.0",[m
+[32m+[m[32m        "array-unique": "^0.3.2",[m
+[32m+[m[32m        "braces": "^2.3.1",[m
+[32m+[m[32m        "define-property": "^2.0.2",[m
+[32m+[m[32m        "extend-shallow": "^3.0.2",[m
+[32m+[m[32m        "extglob": "^2.0.4",[m
+[32m+[m[32m        "fragment-cache": "^0.2.1",[m
+[32m+[m[32m        "kind-of": "^6.0.2",[m
+[32m+[m[32m        "nanomatch": "^1.2.9",[m
+[32m+[m[32m        "object.pick": "^1.3.0",[m
+[32m+[m[32m        "regex-not": "^1.0.0",[m
+[32m+[m[32m        "snapdragon": "^0.8.1",[m
+[32m+[m[32m        "to-regex": "^3.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/readdirp": {[m
+[32m+[m[32m      "version": "2.2.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-1JU/8q+VgFZyxwrJ+SVIOsh+KywWGpds3NTqikiKpDMZWScmAYyKIgqkO+ARvNWJfXeXR1zxz7aHF4u4CyH6vQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "graceful-fs": "^4.1.11",[m
+[32m+[m[32m        "micromatch": "^3.1.10",[m
+[32m+[m[32m        "readable-stream": "^2.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/to-regex-range": {[m
+[32m+[m[32m      "version": "2.1.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-2.1.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-ZZWNfCjUokXXDGXFpZehJIkZqq91BcULFq/Pi7M5i4JnxXdhMKAK682z8bCW3o8Hj1wuuzoKcW3DfVzaP6VuNg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-number": "^3.0.0",[m
+[32m+[m[32m        "repeat-string": "^1.6.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/onetime": {[m
+       "version": "5.1.2",[m
+       "resolved": "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz",[m
+[36m@@ -17535,6 +17897,28 @@[m
+         "node": ">=0.10.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/prettier": {[m
+[32m+[m[32m      "version": "1.19.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier/-/prettier-1.19.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==",[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "prettier": "bin-prettier.js"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=4"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/prettier-linter-helpers": {[m
+[32m+[m[32m      "version": "1.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier-linter-helpers/-/prettier-linter-helpers-1.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "fast-diff": "^1.1.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/pretty-bytes": {[m
+       "version": "5.6.0",[m
+       "resolved": "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz",[m
+[36m@@ -17656,13 +18040,13 @@[m
+       }[m
+     },[m
+     "node_modules/prop-types": {[m
+[31m-      "version": "15.7.2",[m
+[31m-      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz",[m
+[31m-      "integrity": "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==",[m
+[32m+[m[32m      "version": "15.8.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==",[m
+       "dependencies": {[m
+         "loose-envify": "^1.4.0",[m
+         "object-assign": "^4.1.1",[m
+[31m-        "react-is": "^16.8.1"[m
+[32m+[m[32m        "react-is": "^16.13.1"[m
+       }[m
+     },[m
+     "node_modules/protobufjs": {[m
+[36m@@ -17880,6 +18264,11 @@[m
+         "performance-now": "^2.1.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/random-id": {[m
+[32m+[m[32m      "version": "0.0.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/random-id/-/random-id-0.0.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-e1E0fCzmRQcSxeAFnCybHkVi4filc7c07INtA1BAjKFRfKyO+upZ3q0OhxMnyJ2PRwTSpy/jiMN0ZXwLtyQaBw=="[m
+[32m+[m[32m    },[m
+     "node_modules/randombytes": {[m
+       "version": "2.1.0",[m
+       "resolved": "https://registry.npmjs.org/randombytes/-/randombytes-2.1.0.tgz",[m
+[36m@@ -18419,6 +18808,68 @@[m
+         }[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot": {[m
+[32m+[m[32m      "version": "0.6.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react-simple-chatbot/-/react-simple-chatbot-0.6.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-q9y5GXwBvD+YvLgDVyDuZHYMkrcgIirm1FVV9RkR7XojPmbiX1lCzT6ib8U1M5zh42kTUBRnszXzkAGm9e0K8w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "eslint-config-prettier": "^4.1.0",[m
+[32m+[m[32m        "eslint-plugin-prettier": "^3.0.1",[m
+[32m+[m[32m        "flatted": "^2.0.0",[m
+[32m+[m[32m        "onchange": "^5.2.0",[m
+[32m+[m[32m        "prettier": "^1.16.4",[m
+[32m+[m[32m        "prop-types": "^15.6.0",[m
+[32m+[m[32m        "random-id": "0.0.2",[m
+[32m+[m[32m        "react": "^16.4.1",[m
+[32m+[m[32m        "react-dom": "^16.4.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "react": "^16.3.0",[m
+[32m+[m[32m        "react-dom": "^16.3.0",[m
+[32m+[m[32m        "styled-components": "^4.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/flatted": {[m
+[32m+[m[32m      "version": "2.0.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/flatted/-/flatted-2.0.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-r5wGx7YeOwNWNlCA0wQ86zKyDLMQr+/RB8xy74M4hTphfmjlijTSSXGuH8rnvKZnfT9i+75zmd8jcKdMR4O6jA=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/react": {[m
+[32m+[m[32m      "version": "16.14.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1",[m
+[32m+[m[32m        "prop-types": "^15.6.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/react-dom": {[m
+[32m+[m[32m      "version": "16.14.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1",[m
+[32m+[m[32m        "prop-types": "^15.6.2",[m
+[32m+[m[32m        "scheduler": "^0.19.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "react": "^16.14.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/scheduler": {[m
+[32m+[m[32m      "version": "0.19.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/scheduler/-/scheduler-0.19.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/react-tag-input-component": {[m
+       "version": "1.0.7",[m
+       "resolved": "https://registry.npmjs.org/react-tag-input-component/-/react-tag-input-component-1.0.7.tgz",[m
+[36m@@ -21040,6 +21491,14 @@[m
+         "node": ">=8"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/tree-kill": {[m
+[32m+[m[32m      "version": "1.2.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/tree-kill/-/tree-kill-1.2.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==",[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "tree-kill": "cli.js"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/tryer": {[m
+       "version": "1.0.1",[m
+       "resolved": "https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz",[m
+[1mdiff --git a/frontend/node_modules/prop-types/CHANGELOG.md b/frontend/node_modules/prop-types/CHANGELOG.md[m
+[1mdeleted file mode 100644[m
+[1mindex 025d2f40..00000000[m
+[1m--- a/frontend/node_modules/prop-types/CHANGELOG.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,92 +0,0 @@[m
+[31m-## 15.7.2[m
+[31m-* [Fix] ensure nullish values in `oneOf` do not crash ([#256](https://github.com/facebook/prop-types/issues/256))[m
+[31m-* [Fix] move `loose-envify` back to production deps, for browerify usage ([#203](https://github.com/facebook/prop-types/issues/203))[m
+[31m-[m
+[31m-## 15.7.1[m
+[31m-* [Fix] avoid template literal syntax ([#255](https://github.com/facebook/prop-types/issues/255), [#254](https://github.com/facebook/prop-types/issues/254))[m
+[31m-[m
+[31m-## 15.7.0[m
+[31m-* [New] Add `.elementType` ([#211](https://github.com/facebook/prop-types/pull/211))[m
+[31m-* [New] add `PropTypes.resetWarningCache` ([#178](https://github.com/facebook/prop-types/pull/178))[m
+[31m-* `oneOf`: improve warning when multiple arguments are supplied ([#244](https://github.com/facebook/prop-types/pull/244))[m
+[31m-* Fix `oneOf` when used with Symbols ([#224](https://github.com/facebook/prop-types/pull/224))[m
+[31m-* Avoid relying on `hasOwnProperty` being present on values' prototypes ([#112](https://github.com/facebook/prop-types/pull/112), [#187](https://github.com/facebook/prop-types/pull/187))[m
+[31m-* Improve readme ([#248](https://github.com/facebook/prop-types/pull/248), [#233](https://github.com/facebook/prop-types/pull/233))[m
+[31m-* Clean up mistaken runtime dep, swap envify for loose-envify ([#204](https://github.com/facebook/prop-types/pull/204))[m
+[31m-[m
+[31m-## 15.6.2[m
+[31m-* Remove the `fbjs` dependency by inlining some helpers from it ([#194](https://github.com/facebook/prop-types/pull/194)))[m
+[31m-[m
+[31m-## 15.6.1[m
+[31m-* Fix an issue where outdated BSD license headers were still present in the published bundle [#162](https://github.com/facebook/prop-types/issues/162)[m
+[31m-[m
+[31m-## 15.6.0[m
+[31m-[m
+[31m-* Switch from BSD + Patents to MIT license[m
+[31m-* Add PropTypes.exact, like PropTypes.shape but warns on extra object keys. ([@thejameskyle](https://github.com/thejameskyle) and [@aweary](https://github.com/aweary) in [#41](https://github.com/facebook/prop-types/pull/41) and [#87](https://github.com/facebook/prop-types/pull/87))[m
+[31m-[m
+[31m-## 15.5.10[m
+[31m-[m
+[31m-* Fix a false positive warning when using a production UMD build of a third-party library with a DEV version of React. ([@gaearon](https://github.com/gaearon) in [#50](https://github.com/facebook/prop-types/pull/50))[m
+[31m-[m
+[31m-## 15.5.9[m
+[31m-[m
+[31m-* Add `loose-envify` Browserify transform for users who don't envify globally. ([@mridgway](https://github.com/mridgway) in [#45](https://github.com/facebook/prop-types/pull/45))[m
+[31m-[m
+[31m-## 15.5.8[m
+[31m-[m
+[31m-* Limit the manual PropTypes call warning count because it has false positives with React versions earlier than 15.2.0 in the 15.x branch and 0.14.9 in the 0.14.x branch. ([@gaearon](https://github.com/gaearon) in [#26](https://github.com/facebook/prop-types/pull/26))[m
+[31m-[m
+[31m-## 15.5.7[m
+[31m-[m
+[31m-* **Critical Bugfix:** Fix an accidental breaking change that caused errors in production when used through `React.PropTypes`.  ([@gaearon](https://github.com/gaearon) in [#20](https://github.com/facebook/prop-types/pull/20))[m
+[31m-* Improve the size of production UMD build.  ([@aweary](https://github.com/aweary) in [38ba18](https://github.com/facebook/prop-types/commit/38ba18a4a8f705f4b2b33c88204573ddd604f2d6) and [7882a7](https://github.com/facebook/prop-types/commit/7882a7285293db5f284bcf559b869fd2cd4c44d4))[m
+[31m-[m
+[31m-## 15.5.6[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Fix a markdown issue in README. ([@bvaughn](https://github.com/bvaughn) in [174f77](https://github.com/facebook/prop-types/commit/174f77a50484fa628593e84b871fb40eed78b69a))[m
+[31m-[m
+[31m-## 15.5.5[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Add missing documentation and license files.  ([@bvaughn](https://github.com/bvaughn) in [0a53d3](https://github.com/facebook/prop-types/commit/0a53d3a34283ae1e2d3aa396632b6dc2a2061e6a))[m
+[31m-[m
+[31m-## 15.5.4[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Reduce the size of the UMD Build. ([@acdlite](https://github.com/acdlite) in [31e9344](https://github.com/facebook/prop-types/commit/31e9344ca3233159928da66295da17dad82db1a8))[m
+[31m-* Remove bad package url. ([@ljharb](https://github.com/ljharb) in [158198f](https://github.com/facebook/prop-types/commit/158198fd6c468a3f6f742e0e355e622b3914048a))[m
+[31m-* Remove the accidentally included typechecking code from the production build.[m
+[31m-[m
+[31m-## 15.5.3[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Remove the accidentally included React package code from the UMD bundle. ([@acdlite](https://github.com/acdlite) in [df318bb](https://github.com/facebook/prop-types/commit/df318bba8a89bc5aadbb0292822cf4ed71d27ace))[m
+[31m-[m
+[31m-## 15.5.2[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Remove dependency on React for CommonJS entry point. ([@acdlite](https://github.com/acdlite) in [cae72bb](https://github.com/facebook/prop-types/commit/cae72bb281a3766c765e3624f6088c3713567e6d))[m
+[31m-[m
+[31m-[m
+[31m-## 15.5.1[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Remove accidental uncompiled ES6 syntax in the published package. ([@acdlite](https://github.com/acdlite) in [e191963](https://github.com/facebook/react/commit/e1919638b39dd65eedd250a8bb649773ca61b6f1))[m
+[31m-[m
+[31m-## 15.5.0[m
+[31m-[m
+[31m-**Note: this release has a critical issue and was deprecated. Please update to 15.5.7 or higher.**[m
+[31m-[m
+[31m-* Initial release.[m
+[31m-[m
+[31m-## Before 15.5.0[m
+[31m-[m
+[31m-PropTypes was previously included in React, but is now a separate package. For earlier history of PropTypes [see the React change log.](https://github.com/facebook/react/blob/master/CHANGELOG.md)[m
+[1mdiff --git a/frontend/node_modules/prop-types/README.md b/frontend/node_modules/prop-types/README.md[m
+[1mindex 1a23c9d9..e54d435f 100644[m
+[1m--- a/frontend/node_modules/prop-types/README.md[m
+[1m+++ b/frontend/node_modules/prop-types/README.md[m
+[36m@@ -1,9 +1,9 @@[m
+[31m-# prop-types [![Build Status](https://travis-ci.com/facebook/prop-types.svg?branch=master)](https://travis-ci.org/facebook/prop-types)[m
+[32m+[m[32m# prop-types [![Build Status](https://travis-ci.com/facebook/prop-types.svg?branch=main)](https://travis-ci.org/facebook/prop-types)[m
+ [m
+ Runtime type checking for React props and similar objects.[m
+ [m
+ You can use prop-types to document the intended types of properties passed to[m
+[31m-components. React (and potentially other libraries—see the checkPropTypes()[m
+[32m+[m[32mcomponents. React (and potentially other libraries—see the `checkPropTypes()`[m
+ reference below) will check props passed to your components against those[m
+ definitions, and warn in development if they don’t match.[m
+ [m
+[36m@@ -67,6 +67,7 @@[m [mMyComponent.propTypes = {[m
+   // You can declare that a prop is a specific JS primitive. By default, these[m
+   // are all optional.[m
+   optionalArray: PropTypes.array,[m
+[32m+[m[32m  optionalBigInt: PropTypes.bigint,[m
+   optionalBool: PropTypes.bool,[m
+   optionalFunc: PropTypes.func,[m
+   optionalNumber: PropTypes.number,[m
+[36m@@ -76,12 +77,15 @@[m [mMyComponent.propTypes = {[m
+ [m
+   // Anything that can be rendered: numbers, strings, elements or an array[m
+   // (or fragment) containing these types.[m
+[32m+[m[32m  // see https://reactjs.org/docs/rendering-elements.html for more info[m
+   optionalNode: PropTypes.node,[m
+ [m
+   // A React element (ie. <MyComponent />).[m
+   optionalElement: PropTypes.element,[m
+ [m
+[31m-  // A React element type (ie. MyComponent).[m
+[32m+[m[32m  // A React element type (eg. MyComponent).[m
+[32m+[m[32m  // a function, string, or "element-like" object (eg. React.Fragment, Suspense, etc.)[m
+[32m+[m[32m  // see https://github.com/facebook/react/blob/HEAD/packages/shared/isValidElementType.js[m
+   optionalElementType: PropTypes.elementType,[m
+ [m
+   // You can also declare that a prop is an instance of a class. This uses[m
+[36m@@ -256,6 +260,8 @@[m [mPropTypes.checkPropTypes(MyComponent.propTypes, props, 'prop', 'MyComponent');[m
+ ```[m
+ See below for more info.[m
+ [m
+[32m+[m[32m**If you DO want to use validation in production**, you can choose to use the **development version** by importing/requiring `prop-types/prop-types` instead of `prop-types`.[m
+[32m+[m
+ **You might also see this error** if you’re calling a `PropTypes` validator from your own custom `PropTypes` validator. In this case, the fix is to make sure that you are passing *all* of the arguments to the inner function. There is a more in-depth explanation of how to fix it [on this page](https://facebook.github.io/react/warnings/dont-call-proptypes.html#fixing-the-false-positive-in-third-party-proptypes). Alternatively, you can temporarily keep using `React.PropTypes` until React 16, as it would still only warn in this case.[m
+ [m
+ If you use a bundler like Browserify or Webpack, don’t forget to [follow these instructions](https://reactjs.org/docs/optimizing-performance.html#use-the-production-build) to correctly bundle your application in development or production mode. Otherwise you’ll ship unnecessary code to your users.[m
+[36m@@ -281,7 +287,7 @@[m [mconst props = {[m
+ // Let's say your component is called 'MyComponent'[m
+ [m
+ // Works with standalone PropTypes[m
+[31m-PropTypes.checkPropTypes(myPropTypes, props, 'age', 'MyComponent');[m
+[32m+[m[32mPropTypes.checkPropTypes(myPropTypes, props, 'prop', 'MyComponent');[m
+ // This will warn as follows:[m
+ // Warning: Failed prop type: Invalid prop `age` of type `string` supplied to[m
+ // `MyComponent`, expected `number`.[m
+[36m@@ -289,7 +295,7 @@[m [mPropTypes.checkPropTypes(myPropTypes, props, 'age', 'MyComponent');[m
+ [m
+ ## PropTypes.resetWarningCache()[m
+ [m
+[31m-`PropTypes.checkPropTypes(...)` only `console.error.log(...)`s a given message once.  To reset the cache while testing call `PropTypes.resetWarningCache()`[m
+[32m+[m[32m`PropTypes.checkPropTypes(...)` only `console.error`s a given message once. To reset the error warning cache in tests, call `PropTypes.resetWarningCache()`[m
+ [m
+ ### License[m
+ [m
+[1mdiff --git a/frontend/node_modules/prop-types/checkPropTypes.js b/frontend/node_modules/prop-types/checkPropTypes.js[m
+[1mindex 49111df9..481f2cf9 100644[m
+[1m--- a/frontend/node_modules/prop-types/checkPropTypes.js[m
+[1m+++ b/frontend/node_modules/prop-types/checkPropTypes.js[m
+[36m@@ -12,7 +12,7 @@[m [mvar printWarning = function() {};[m
+ if (process.env.NODE_ENV !== 'production') {[m
+   var ReactPropTypesSecret = require('./lib/ReactPropTypesSecret');[m
+   var loggedTypeFailures = {};[m
+[31m-  var has = Function.call.bind(Object.prototype.hasOwnProperty);[m
+[32m+[m[32m  var has = require('./lib/has');[m
+ [m
+   printWarning = function(text) {[m
+     var message = 'Warning: ' + text;[m
+[36m@@ -24,7 +24,7 @@[m [mif (process.env.NODE_ENV !== 'production') {[m
+       // This error was thrown as a convenience so that you can use this stack[m
+       // to find the callsite that caused this warning to fire.[m
+       throw new Error(message);[m
+[31m-    } catch (x) {}[m
+[32m+[m[32m    } catch (x) { /**/ }[m
+   };[m
+ }[m
+ [m
+[36m@@ -53,7 +53,8 @@[m [mfunction checkPropTypes(typeSpecs, values, location, componentName, getStack) {[m
+           if (typeof typeSpecs[typeSpecName] !== 'function') {[m
+             var err = Error([m
+               (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +[m
+[31m-              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'[m
+[32m+[m[32m              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.' +[m
+[32m+[m[32m              'This often happens because of typos such as `PropTypes.function` instead of `PropTypes.func`.'[m
+             );[m
+             err.name = 'Invariant Violation';[m
+             throw err;[m
+[1mdiff --git a/frontend/node_modules/prop-types/factoryWithThrowingShims.js b/frontend/node_modules/prop-types/factoryWithThrowingShims.js[m
+[1mindex e5b2f9ce..ac882672 100644[m
+[1m--- a/frontend/node_modules/prop-types/factoryWithThrowingShims.js[m
+[1m+++ b/frontend/node_modules/prop-types/factoryWithThrowingShims.js[m
+[36m@@ -35,6 +35,7 @@[m [mmodule.exports = function() {[m
+   // Keep this list in sync with production version in `./factoryWithTypeCheckers.js`.[m
+   var ReactPropTypes = {[m
+     array: shim,[m
+[32m+[m[32m    bigint: shim,[m
+     bool: shim,[m
+     func: shim,[m
+     number: shim,[m
+[1mdiff --git a/frontend/node_modules/prop-types/factoryWithTypeCheckers.js b/frontend/node_modules/prop-types/factoryWithTypeCheckers.js[m
+[1mindex 3711f0b6..a88068e5 100644[m
+[1m--- a/frontend/node_modules/prop-types/factoryWithTypeCheckers.js[m
+[1m+++ b/frontend/node_modules/prop-types/factoryWithTypeCheckers.js[m
+[36m@@ -11,9 +11,9 @@[m [mvar ReactIs = require('react-is');[m
+ var assign = require('object-assign');[m
+ [m
+ var ReactPropTypesSecret = require('./lib/ReactPropTypesSecret');[m
+[32m+[m[32mvar has = require('./lib/has');[m
+ var checkPropTypes = require('./checkPropTypes');[m
+ [m
+[31m-var has = Function.call.bind(Object.prototype.hasOwnProperty);[m
+ var printWarning = function() {};[m
+ [m
+ if (process.env.NODE_ENV !== 'production') {[m
+[36m@@ -114,6 +114,7 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+   // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.[m
+   var ReactPropTypes = {[m
+     array: createPrimitiveTypeChecker('array'),[m
+[32m+[m[32m    bigint: createPrimitiveTypeChecker('bigint'),[m
+     bool: createPrimitiveTypeChecker('boolean'),[m
+     func: createPrimitiveTypeChecker('function'),[m
+     number: createPrimitiveTypeChecker('number'),[m
+[36m@@ -159,8 +160,9 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+    * is prohibitively expensive if they are created too often, such as what[m
+    * happens in oneOfType() for any type before the one that matched.[m
+    */[m
+[31m-  function PropTypeError(message) {[m
+[32m+[m[32m  function PropTypeError(message, data) {[m
+     this.message = message;[m
+[32m+[m[32m    this.data = data && typeof data === 'object' ? data: {};[m
+     this.stack = '';[m
+   }[m
+   // Make `instanceof Error` still work for returned errors.[m
+[36m@@ -195,7 +197,7 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+           ) {[m
+             printWarning([m
+               'You are manually calling a React.PropTypes validation ' +[m
+[31m-              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +[m
+[32m+[m[32m              'function for the `' + propFullName + '` prop on `' + componentName + '`. This is deprecated ' +[m
+               'and will throw in the standalone `prop-types` package. ' +[m
+               'You may be seeing this warning due to a third-party PropTypes ' +[m
+               'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'[m
+[36m@@ -234,7 +236,10 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+         // 'of type `object`'.[m
+         var preciseType = getPreciseType(propValue);[m
+ [m
+[31m-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));[m
+[32m+[m[32m        return new PropTypeError([m
+[32m+[m[32m          'Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'),[m
+[32m+[m[32m          {expectedType: expectedType}[m
+[32m+[m[32m        );[m
+       }[m
+       return null;[m
+     }[m
+[36m@@ -378,14 +383,19 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+     }[m
+ [m
+     function validate(props, propName, componentName, location, propFullName) {[m
+[32m+[m[32m      var expectedTypes = [];[m
+       for (var i = 0; i < arrayOfTypeCheckers.length; i++) {[m
+         var checker = arrayOfTypeCheckers[i];[m
+[31m-        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {[m
+[32m+[m[32m        var checkerResult = checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret);[m
+[32m+[m[32m        if (checkerResult == null) {[m
+           return null;[m
+         }[m
+[32m+[m[32m        if (checkerResult.data && has(checkerResult.data, 'expectedType')) {[m
+[32m+[m[32m          expectedTypes.push(checkerResult.data.expectedType);[m
+[32m+[m[32m        }[m
+       }[m
+[31m-[m
+[31m-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));[m
+[32m+[m[32m      var expectedTypesMessage = (expectedTypes.length > 0) ? ', expected one of type [' + expectedTypes.join(', ') + ']': '';[m
+[32m+[m[32m      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`' + expectedTypesMessage + '.'));[m
+     }[m
+     return createChainableTypeChecker(validate);[m
+   }[m
+[36m@@ -400,6 +410,13 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+     return createChainableTypeChecker(validate);[m
+   }[m
+ [m
+[32m+[m[32m  function invalidValidatorError(componentName, location, propFullName, key, type) {[m
+[32m+[m[32m    return new PropTypeError([m
+[32m+[m[32m      (componentName || 'React class') + ': ' + location + ' type `' + propFullName + '.' + key + '` is invalid; ' +[m
+[32m+[m[32m      'it must be a function, usually from the `prop-types` package, but received `' + type + '`.'[m
+[32m+[m[32m    );[m
+[32m+[m[32m  }[m
+[32m+[m
+   function createShapeTypeChecker(shapeTypes) {[m
+     function validate(props, propName, componentName, location, propFullName) {[m
+       var propValue = props[propName];[m
+[36m@@ -409,8 +426,8 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+       }[m
+       for (var key in shapeTypes) {[m
+         var checker = shapeTypes[key];[m
+[31m-        if (!checker) {[m
+[31m-          continue;[m
+[32m+[m[32m        if (typeof checker !== 'function') {[m
+[32m+[m[32m          return invalidValidatorError(componentName, location, propFullName, key, getPreciseType(checker));[m
+         }[m
+         var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);[m
+         if (error) {[m
+[36m@@ -429,16 +446,18 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+       if (propType !== 'object') {[m
+         return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));[m
+       }[m
+[31m-      // We need to check all keys in case some are required but missing from[m
+[31m-      // props.[m
+[32m+[m[32m      // We need to check all keys in case some are required but missing from props.[m
+       var allKeys = assign({}, props[propName], shapeTypes);[m
+       for (var key in allKeys) {[m
+         var checker = shapeTypes[key];[m
+[32m+[m[32m        if (has(shapeTypes, key) && typeof checker !== 'function') {[m
+[32m+[m[32m          return invalidValidatorError(componentName, location, propFullName, key, getPreciseType(checker));[m
+[32m+[m[32m        }[m
+         if (!checker) {[m
+           return new PropTypeError([m
+             'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +[m
+             '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +[m
+[31m-            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')[m
+[32m+[m[32m            '\nValid keys: ' + JSON.stringify(Object.keys(shapeTypes), null, '  ')[m
+           );[m
+         }[m
+         var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);[m
+[1mdiff --git a/frontend/node_modules/prop-types/package.json b/frontend/node_modules/prop-types/package.json[m
+[1mindex 2675a422..63daf704 100644[m
+[1m--- a/frontend/node_modules/prop-types/package.json[m
+[1m+++ b/frontend/node_modules/prop-types/package.json[m
+[36m@@ -1,7 +1,8 @@[m
+ {[m
+   "name": "prop-types",[m
+[31m-  "version": "15.7.2",[m
+[32m+[m[32m  "version": "15.8.1",[m
+   "description": "Runtime type checking for React props and similar objects.",[m
+[32m+[m[32m  "sideEffects": false,[m
+   "main": "index.js",[m
+   "license": "MIT",[m
+   "files": [[m
+[36m@@ -27,7 +28,7 @@[m
+   "dependencies": {[m
+     "loose-envify": "^1.4.0",[m
+     "object-assign": "^4.1.1",[m
+[31m-    "react-is": "^16.8.1"[m
+[32m+[m[32m    "react-is": "^16.13.1"[m
+   },[m
+   "scripts": {[m
+     "pretest": "npm run lint",[m
+[36m@@ -37,18 +38,19 @@[m
+     "umd": "NODE_ENV=development browserify index.js -t loose-envify --standalone PropTypes -o prop-types.js",[m
+     "umd-min": "NODE_ENV=production browserify index.js -t loose-envify -t uglifyify --standalone PropTypes  -p bundle-collapser/plugin -o | uglifyjs --compress unused,dead_code -o prop-types.min.js",[m
+     "build": "yarn umd && yarn umd-min",[m
+[31m-    "prepublish": "yarn build"[m
+[32m+[m[32m    "prepublish": "not-in-publish || yarn build"[m
+   },[m
+   "devDependencies": {[m
+     "babel-jest": "^19.0.0",[m
+     "babel-preset-react": "^6.24.1",[m
+[31m-    "browserify": "^16.2.3",[m
+[31m-    "bundle-collapser": "^1.2.1",[m
+[31m-    "eslint": "^5.13.0",[m
+[32m+[m[32m    "browserify": "^16.5.0",[m
+[32m+[m[32m    "bundle-collapser": "^1.4.0",[m
+[32m+[m[32m    "eslint": "^8.6.0",[m
+[32m+[m[32m    "in-publish": "^2.0.1",[m
+     "jest": "^19.0.2",[m
+[31m-    "react": "^15.5.1",[m
+[31m-    "uglifyify": "^3.0.4",[m
+[31m-    "uglifyjs": "^2.4.10"[m
+[32m+[m[32m    "react": "^15.7.0",[m
+[32m+[m[32m    "uglifyify": "^5.0.2",[m
+[32m+[m[32m    "uglifyjs": "^2.4.11"[m
+   },[m
+   "browserify": {[m
+     "transform": [[m
+[1mdiff --git a/frontend/node_modules/prop-types/prop-types.js b/frontend/node_modules/prop-types/prop-types.js[m
+[1mindex 867d6993..a5a15ddb 100644[m
+[1m--- a/frontend/node_modules/prop-types/prop-types.js[m
+[1m+++ b/frontend/node_modules/prop-types/prop-types.js[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-(function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.PropTypes = f()}})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){[m
+[32m+[m[32m(function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.PropTypes = f()}})(function(){var define,module,exports;return (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){[m
+ /**[m
+  * Copyright (c) 2013-present, Facebook, Inc.[m
+  *[m
+[36m@@ -13,7 +13,7 @@[m [mvar printWarning = function() {};[m
+ if ("development" !== 'production') {[m
+   var ReactPropTypesSecret = require('./lib/ReactPropTypesSecret');[m
+   var loggedTypeFailures = {};[m
+[31m-  var has = Function.call.bind(Object.prototype.hasOwnProperty);[m
+[32m+[m[32m  var has = require('./lib/has');[m
+ [m
+   printWarning = function(text) {[m
+     var message = 'Warning: ' + text;[m
+[36m@@ -25,7 +25,7 @@[m [mif ("development" !== 'production') {[m
+       // This error was thrown as a convenience so that you can use this stack[m
+       // to find the callsite that caused this warning to fire.[m
+       throw new Error(message);[m
+[31m-    } catch (x) {}[m
+[32m+[m[32m    } catch (x) { /**/ }[m
+   };[m
+ }[m
+ [m
+[36m@@ -54,7 +54,8 @@[m [mfunction checkPropTypes(typeSpecs, values, location, componentName, getStack) {[m
+           if (typeof typeSpecs[typeSpecName] !== 'function') {[m
+             var err = Error([m
+               (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +[m
+[31m-              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'[m
+[32m+[m[32m              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.' +[m
+[32m+[m[32m              'This often happens because of typos such as `PropTypes.function` instead of `PropTypes.func`.'[m
+             );[m
+             err.name = 'Invariant Violation';[m
+             throw err;[m
+[36m@@ -102,7 +103,7 @@[m [mcheckPropTypes.resetWarningCache = function() {[m
+ [m
+ module.exports = checkPropTypes;[m
+ [m
+[31m-},{"./lib/ReactPropTypesSecret":5}],2:[function(require,module,exports){[m
+[32m+[m[32m},{"./lib/ReactPropTypesSecret":5,"./lib/has":6}],2:[function(require,module,exports){[m
+ /**[m
+  * Copyright (c) 2013-present, Facebook, Inc.[m
+  *[m
+[36m@@ -140,6 +141,7 @@[m [mmodule.exports = function() {[m
+   // Keep this list in sync with production version in `./factoryWithTypeCheckers.js`.[m
+   var ReactPropTypes = {[m
+     array: shim,[m
+[32m+[m[32m    bigint: shim,[m
+     bool: shim,[m
+     func: shim,[m
+     number: shim,[m
+[36m@@ -182,9 +184,9 @@[m [mvar ReactIs = require('react-is');[m
+ var assign = require('object-assign');[m
+ [m
+ var ReactPropTypesSecret = require('./lib/ReactPropTypesSecret');[m
+[32m+[m[32mvar has = require('./lib/has');[m
+ var checkPropTypes = require('./checkPropTypes');[m
+ [m
+[31m-var has = Function.call.bind(Object.prototype.hasOwnProperty);[m
+ var printWarning = function() {};[m
+ [m
+ if ("development" !== 'production') {[m
+[36m@@ -285,6 +287,7 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+   // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.[m
+   var ReactPropTypes = {[m
+     array: createPrimitiveTypeChecker('array'),[m
+[32m+[m[32m    bigint: createPrimitiveTypeChecker('bigint'),[m
+     bool: createPrimitiveTypeChecker('boolean'),[m
+     func: createPrimitiveTypeChecker('function'),[m
+     number: createPrimitiveTypeChecker('number'),[m
+[36m@@ -330,8 +333,9 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+    * is prohibitively expensive if they are created too often, such as what[m
+    * happens in oneOfType() for any type before the one that matched.[m
+    */[m
+[31m-  function PropTypeError(message) {[m
+[32m+[m[32m  function PropTypeError(message, data) {[m
+     this.message = message;[m
+[32m+[m[32m    this.data = data && typeof data === 'object' ? data: {};[m
+     this.stack = '';[m
+   }[m
+   // Make `instanceof Error` still work for returned errors.[m
+[36m@@ -366,7 +370,7 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+           ) {[m
+             printWarning([m
+               'You are manually calling a React.PropTypes validation ' +[m
+[31m-              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +[m
+[32m+[m[32m              'function for the `' + propFullName + '` prop on `' + componentName + '`. This is deprecated ' +[m
+               'and will throw in the standalone `prop-types` package. ' +[m
+               'You may be seeing this warning due to a third-party PropTypes ' +[m
+               'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'[m
+[36m@@ -405,7 +409,10 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+         // 'of type `object`'.[m
+         var preciseType = getPreciseType(propValue);[m
+ [m
+[31m-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));[m
+[32m+[m[32m        return new PropTypeError([m
+[32m+[m[32m          'Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'),[m
+[32m+[m[32m          {expectedType: expectedType}[m
+[32m+[m[32m        );[m
+       }[m
+       return null;[m
+     }[m
+[36m@@ -549,14 +556,19 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+     }[m
+ [m
+     function validate(props, propName, componentName, location, propFullName) {[m
+[32m+[m[32m      var expectedTypes = [];[m
+       for (var i = 0; i < arrayOfTypeCheckers.length; i++) {[m
+         var checker = arrayOfTypeCheckers[i];[m
+[31m-        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {[m
+[32m+[m[32m        var checkerResult = checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret);[m
+[32m+[m[32m        if (checkerResult == null) {[m
+           return null;[m
+         }[m
+[32m+[m[32m        if (checkerResult.data.hasOwnProperty('expectedType')) {[m
+[32m+[m[32m          expectedTypes.push(checkerResult.data.expectedType);[m
+[32m+[m[32m        }[m
+       }[m
+[31m-[m
+[31m-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));[m
+[32m+[m[32m      var expectedTypesMessage = (expectedTypes.length > 0) ? ', expected one of type [' + expectedTypes.join(', ') + ']': '';[m
+[32m+[m[32m      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`' + expectedTypesMessage + '.'));[m
+     }[m
+     return createChainableTypeChecker(validate);[m
+   }[m
+[36m@@ -571,6 +583,13 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+     return createChainableTypeChecker(validate);[m
+   }[m
+ [m
+[32m+[m[32m  function invalidValidatorError(componentName, location, propFullName, key, type) {[m
+[32m+[m[32m    return new PropTypeError([m
+[32m+[m[32m      (componentName || 'React class') + ': ' + location + ' type `' + propFullName + '.' + key + '` is invalid; ' +[m
+[32m+[m[32m      'it must be a function, usually from the `prop-types` package, but received `' + type + '`.'[m
+[32m+[m[32m    );[m
+[32m+[m[32m  }[m
+[32m+[m
+   function createShapeTypeChecker(shapeTypes) {[m
+     function validate(props, propName, componentName, location, propFullName) {[m
+       var propValue = props[propName];[m
+[36m@@ -580,8 +599,8 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+       }[m
+       for (var key in shapeTypes) {[m
+         var checker = shapeTypes[key];[m
+[31m-        if (!checker) {[m
+[31m-          continue;[m
+[32m+[m[32m        if (typeof checker !== 'function') {[m
+[32m+[m[32m          return invalidValidatorError(componentName, location, propFullName, key, getPreciseType(checker));[m
+         }[m
+         var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);[m
+         if (error) {[m
+[36m@@ -600,16 +619,18 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+       if (propType !== 'object') {[m
+         return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));[m
+       }[m
+[31m-      // We need to check all keys in case some are required but missing from[m
+[31m-      // props.[m
+[32m+[m[32m      // We need to check all keys in case some are required but missing from props.[m
+       var allKeys = assign({}, props[propName], shapeTypes);[m
+       for (var key in allKeys) {[m
+         var checker = shapeTypes[key];[m
+[32m+[m[32m        if (has(shapeTypes, key) && typeof checker !== 'function') {[m
+[32m+[m[32m          return invalidValidatorError(componentName, location, propFullName, key, getPreciseType(checker));[m
+[32m+[m[32m        }[m
+         if (!checker) {[m
+           return new PropTypeError([m
+             'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +[m
+             '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +[m
+[31m-            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')[m
+[32m+[m[32m            '\nValid keys: ' + JSON.stringify(Object.keys(shapeTypes), null, '  ')[m
+           );[m
+         }[m
+         var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);[m
+[36m@@ -761,7 +782,7 @@[m [mmodule.exports = function(isValidElement, throwOnDirectAccess) {[m
+   return ReactPropTypes;[m
+ };[m
+ [m
+[31m-},{"./checkPropTypes":1,"./lib/ReactPropTypesSecret":5,"object-assign":6,"react-is":10}],4:[function(require,module,exports){[m
+[32m+[m[32m},{"./checkPropTypes":1,"./lib/ReactPropTypesSecret":5,"./lib/has":6,"object-assign":7,"react-is":11}],4:[function(require,module,exports){[m
+ /**[m
+  * Copyright (c) 2013-present, Facebook, Inc.[m
+  *[m
+[36m@@ -782,7 +803,7 @@[m [mif ("development" !== 'production') {[m
+   module.exports = require('./factoryWithThrowingShims')();[m
+ }[m
+ [m
+[31m-},{"./factoryWithThrowingShims":2,"./factoryWithTypeCheckers":3,"react-is":10}],5:[function(require,module,exports){[m
+[32m+[m[32m},{"./factoryWithThrowingShims":2,"./factoryWithTypeCheckers":3,"react-is":11}],5:[function(require,module,exports){[m
+ /**[m
+  * Copyright (c) 2013-present, Facebook, Inc.[m
+  *[m
+[36m@@ -797,6 +818,9 @@[m [mvar ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';[m
+ module.exports = ReactPropTypesSecret;[m
+ [m
+ },{}],6:[function(require,module,exports){[m
+[32m+[m[32mmodule.exports = Function.call.bind(Object.prototype.hasOwnProperty);[m
+[32m+[m
+[32m+[m[32m},{}],7:[function(require,module,exports){[m
+ /*[m
+ object-assign[m
+ (c) Sindre Sorhus[m
+[36m@@ -888,7 +912,7 @@[m [mmodule.exports = shouldUseNative() ? Object.assign : function (target, source) {[m
+ 	return to;[m
+ };[m
+ [m
+[31m-},{}],7:[function(require,module,exports){[m
+[32m+[m[32m},{}],8:[function(require,module,exports){[m
+ // shim for using process in browser[m
+ var process = module.exports = {};[m
+ [m
+[36m@@ -1074,9 +1098,9 @@[m [mprocess.chdir = function (dir) {[m
+ };[m
+ process.umask = function() { return 0; };[m
+ [m
+[31m-},{}],8:[function(require,module,exports){[m
+[31m-(function (process){[m
+[31m-/** @license React v16.8.1[m
+[32m+[m[32m},{}],9:[function(require,module,exports){[m
+[32m+[m[32m(function (process){(function (){[m
+[32m+[m[32m/** @license React v16.13.1[m
+  * react-is.development.js[m
+  *[m
+  * Copyright (c) Facebook, Inc. and its affiliates.[m
+[36m@@ -1093,88 +1117,39 @@[m [mif (process.env.NODE_ENV !== "production") {[m
+   (function() {[m
+ 'use strict';[m
+ [m
+[31m-Object.defineProperty(exports, '__esModule', { value: true });[m
+[31m-[m
+ // The Symbol used to tag the ReactElement-like types. If there is no native Symbol[m
+ // nor polyfill, then a plain number is used for performance.[m
+ var hasSymbol = typeof Symbol === 'function' && Symbol.for;[m
+[31m-[m
+ var REACT_ELEMENT_TYPE = hasSymbol ? Symbol.for('react.element') : 0xeac7;[m
+ var REACT_PORTAL_TYPE = hasSymbol ? Symbol.for('react.portal') : 0xeaca;[m
+ var REACT_FRAGMENT_TYPE = hasSymbol ? Symbol.for('react.fragment') : 0xeacb;[m
+ var REACT_STRICT_MODE_TYPE = hasSymbol ? Symbol.for('react.strict_mode') : 0xeacc;[m
+ var REACT_PROFILER_TYPE = hasSymbol ? Symbol.for('react.profiler') : 0xead2;[m
+ var REACT_PROVIDER_TYPE = hasSymbol ? Symbol.for('react.provider') : 0xeacd;[m
+[31m-var REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace;[m
+[32m+[m[32mvar REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace; // TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary[m
+[32m+[m[32m// (unstable) APIs that have been removed. Can we remove the symbols?[m
+[32m+[m
+ var REACT_ASYNC_MODE_TYPE = hasSymbol ? Symbol.for('react.async_mode') : 0xeacf;[m
+ var REACT_CONCURRENT_MODE_TYPE = hasSymbol ? Symbol.for('react.concurrent_mode') : 0xeacf;[m
+ var REACT_FORWARD_REF_TYPE = hasSymbol ? Symbol.for('react.forward_ref') : 0xead0;[m
+ var REACT_SUSPENSE_TYPE = hasSymbol ? Symbol.for('react.suspense') : 0xead1;[m
+[32m+[m[32mvar REACT_SUSPENSE_LIST_TYPE = hasSymbol ? Symbol.for('react.suspense_list') : 0xead8;[m
+ var REACT_MEMO_TYPE = hasSymbol ? Symbol.for('react.memo') : 0xead3;[m
+ var REACT_LAZY_TYPE = hasSymbol ? Symbol.for('react.lazy') : 0xead4;[m
+[32m+[m[32mvar REACT_BLOCK_TYPE = hasSymbol ? Symbol.for('react.block') : 0xead9;[m
+[32m+[m[32mvar REACT_FUNDAMENTAL_TYPE = hasSymbol ? Symbol.for('react.fundamental') : 0xead5;[m
+[32m+[m[32mvar REACT_RESPONDER_TYPE = hasSymbol ? Symbol.for('react.responder') : 0xead6;[m
+[32m+[m[32mvar REACT_SCOPE_TYPE = hasSymbol ? Symbol.for('react.scope') : 0xead7;[m
+ [m
+ function isValidElementType(type) {[m
+[31m-  return typeof type === 'string' || typeof type === 'function' ||[m
+[31m-  // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.[m
+[31m-  type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || typeof type === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE);[m
+[32m+[m[32m  return typeof type === 'string' || typeof type === 'function' || // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.[m
+[32m+[m[32m  type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || type === REACT_SUSPENSE_LIST_TYPE || typeof type === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE || type.$$typeof === REACT_FUNDAMENTAL_TYPE || type.$$typeof === REACT_RESPONDER_TYPE || type.$$typeof === REACT_SCOPE_TYPE || type.$$typeof === REACT_BLOCK_TYPE);[m
+ }[m
+ [m
+[31m-/**[m
+[31m- * Forked from fbjs/warning:[m
+[31m- * https://github.com/facebook/fbjs/blob/e66ba20ad5be433eb54423f2b097d829324d9de6/packages/fbjs/src/__forks__/warning.js[m
+[31m- *[m
+[31m- * Only change is we use console.warn instead of console.error,[m
+[31m- * and do nothing when 'console' is not supported.[m
+[31m- * This really simplifies the code.[m
+[31m- * ---[m
+[31m- * Similar to invariant but only logs a warning if the condition is not met.[m
+[31m- * This can be used to log issues in development environments in critical[m
+[31m- * paths. Removing the logging code for production environments will keep the[m
+[31m- * same logic and follow the same code paths.[m
+[31m- */[m
+[31m-[m
+[31m-var lowPriorityWarning = function () {};[m
+[31m-[m
+[31m-{[m
+[31m-  var printWarning = function (format) {[m
+[31m-    for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {[m
+[31m-      args[_key - 1] = arguments[_key];[m
+[31m-    }[m
+[31m-[m
+[31m-    var argIndex = 0;[m
+[31m-    var message = 'Warning: ' + format.replace(/%s/g, function () {[m
+[31m-      return args[argIndex++];[m
+[31m-    });[m
+[31m-    if (typeof console !== 'undefined') {[m
+[31m-      console.warn(message);[m
+[31m-    }[m
+[31m-    try {[m
+[31m-      // --- Welcome to debugging React ---[m
+[31m-      // This error was thrown as a convenience so that you can use this stack[m
+[31m-      // to find the callsite that caused this warning to fire.[m
+[31m-      throw new Error(message);[m
+[31m-    } catch (x) {}[m
+[31m-  };[m
+[31m-[m
+[31m-  lowPriorityWarning = function (condition, format) {[m
+[31m-    if (format === undefined) {[m
+[31m-      throw new Error('`lowPriorityWarning(condition, format, ...args)` requires a warning ' + 'message argument');[m
+[31m-    }[m
+[31m-    if (!condition) {[m
+[31m-      for (var _len2 = arguments.length, args = Array(_len2 > 2 ? _len2 - 2 : 0), _key2 = 2; _key2 < _len2; _key2++) {[m
+[31m-        args[_key2 - 2] = arguments[_key2];[m
+[31m-      }[m
+[31m-[m
+[31m-      printWarning.apply(undefined, [format].concat(args));[m
+[31m-    }[m
+[31m-  };[m
+[31m-}[m
+[31m-[m
+[31m-var lowPriorityWarning$1 = lowPriorityWarning;[m
+[31m-[m
+ function typeOf(object) {[m
+   if (typeof object === 'object' && object !== null) {[m
+     var $$typeof = object.$$typeof;[m
+[32m+[m
+     switch ($$typeof) {[m
+       case REACT_ELEMENT_TYPE:[m
+         var type = object.type;[m
+[36m@@ -1187,29 +1162,32 @@[m [mfunction typeOf(object) {[m
+           case REACT_STRICT_MODE_TYPE:[m
+           case REACT_SUSPENSE_TYPE:[m
+             return type;[m
+[32m+[m
+           default:[m
+             var $$typeofType = type && type.$$typeof;[m
+ [m
+             switch ($$typeofType) {[m
+               case REACT_CONTEXT_TYPE:[m
+               case REACT_FORWARD_REF_TYPE:[m
+[32m+[m[32m              case REACT_LAZY_TYPE:[m
+[32m+[m[32m              case REACT_MEMO_TYPE:[m
+               case REACT_PROVIDER_TYPE:[m
+                 return $$typeofType;[m
+[32m+[m
+               default:[m
+                 return $$typeof;[m
+             }[m
+[32m+[m
+         }[m
+[31m-      case REACT_LAZY_TYPE:[m
+[31m-      case REACT_MEMO_TYPE:[m
+[32m+[m
+       case REACT_PORTAL_TYPE:[m
+         return $$typeof;[m
+     }[m
+   }[m
+ [m
+   return undefined;[m
+[31m-}[m
+[32m+[m[32m} // AsyncMode is deprecated along with isAsyncMode[m
+ [m
+[31m-// AsyncMode is deprecated along with isAsyncMode[m
+ var AsyncMode = REACT_ASYNC_MODE_TYPE;[m
+ var ConcurrentMode = REACT_CONCURRENT_MODE_TYPE;[m
+ var ContextConsumer = REACT_CONTEXT_TYPE;[m
+[36m@@ -1223,17 +1201,17 @@[m [mvar Portal = REACT_PORTAL_TYPE;[m
+ var Profiler = REACT_PROFILER_TYPE;[m
+ var StrictMode = REACT_STRICT_MODE_TYPE;[m
+ var Suspense = REACT_SUSPENSE_TYPE;[m
+[32m+[m[32mvar hasWarnedAboutDeprecatedIsAsyncMode = false; // AsyncMode should be deprecated[m
+ [m
+[31m-var hasWarnedAboutDeprecatedIsAsyncMode = false;[m
+[31m-[m
+[31m-// AsyncMode should be deprecated[m
+ function isAsyncMode(object) {[m
+   {[m
+     if (!hasWarnedAboutDeprecatedIsAsyncMode) {[m
+[31m-      hasWarnedAboutDeprecatedIsAsyncMode = true;[m
+[31m-      lowPriorityWarning$1(false, 'The ReactIs.isAsyncMode() alias has been deprecated, ' + 'and will be removed in React 17+. Update your code to use ' + 'ReactIs.isConcurrentMode() instead. It has the exact same API.');[m
+[32m+[m[32m      hasWarnedAboutDeprecatedIsAsyncMode = true; // Using console['warn'] to evade Babel and ESLint[m
+[32m+[m
+[32m+[m[32m      console['warn']('The ReactIs.isAsyncMode() alias has been deprecated, ' + 'and will be removed in React 17+. Update your code to use ' + 'ReactIs.isConcurrentMode() instead. It has the exact same API.');[m
+     }[m
+   }[m
+[32m+[m
+   return isConcurrentMode(object) || typeOf(object) === REACT_ASYNC_MODE_TYPE;[m
+ }[m
+ function isConcurrentMode(object) {[m
+[36m@@ -1273,7 +1251,6 @@[m [mfunction isSuspense(object) {[m
+   return typeOf(object) === REACT_SUSPENSE_TYPE;[m
+ }[m
+ [m
+[31m-exports.typeOf = typeOf;[m
+ exports.AsyncMode = AsyncMode;[m
+ exports.ConcurrentMode = ConcurrentMode;[m
+ exports.ContextConsumer = ContextConsumer;[m
+[36m@@ -1287,7 +1264,6 @@[m [mexports.Portal = Portal;[m
+ exports.Profiler = Profiler;[m
+ exports.StrictMode = StrictMode;[m
+ exports.Suspense = Suspense;[m
+[31m-exports.isValidElementType = isValidElementType;[m
+ exports.isAsyncMode = isAsyncMode;[m
+ exports.isConcurrentMode = isConcurrentMode;[m
+ exports.isContextConsumer = isContextConsumer;[m
+[36m@@ -1301,12 +1277,14 @@[m [mexports.isPortal = isPortal;[m
+ exports.isProfiler = isProfiler;[m
+ exports.isStrictMode = isStrictMode;[m
+ exports.isSuspense = isSuspense;[m
+[32m+[m[32mexports.isValidElementType = isValidElementType;[m
+[32m+[m[32mexports.typeOf = typeOf;[m
+   })();[m
+ }[m
+ [m
+[31m-}).call(this,require('_process'))[m
+[31m-},{"_process":7}],9:[function(require,module,exports){[m
+[31m-/** @license React v16.8.1[m
+[32m+[m[32m}).call(this)}).call(this,require('_process'))[m
+[32m+[m[32m},{"_process":8}],10:[function(require,module,exports){[m
+[32m+[m[32m/** @license React v16.13.1[m
+  * react-is.production.min.js[m
+  *[m
+  * Copyright (c) Facebook, Inc. and its affiliates.[m
+[36m@@ -1315,15 +1293,15 @@[m [mexports.isSuspense = isSuspense;[m
+  * LICENSE file in the root directory of this source tree.[m
+  */[m
+ [m
+[31m-'use strict';Object.defineProperty(exports,"__esModule",{value:!0});[m
+[31m-var b="function"===typeof Symbol&&Symbol.for,c=b?Symbol.for("react.element"):60103,d=b?Symbol.for("react.portal"):60106,e=b?Symbol.for("react.fragment"):60107,f=b?Symbol.for("react.strict_mode"):60108,g=b?Symbol.for("react.profiler"):60114,h=b?Symbol.for("react.provider"):60109,k=b?Symbol.for("react.context"):60110,l=b?Symbol.for("react.async_mode"):60111,m=b?Symbol.for("react.concurrent_mode"):60111,n=b?Symbol.for("react.forward_ref"):60112,p=b?Symbol.for("react.suspense"):60113,q=b?Symbol.for("react.memo"):[m
+[31m-60115,r=b?Symbol.for("react.lazy"):60116;function t(a){if("object"===typeof a&&null!==a){var u=a.$$typeof;switch(u){case c:switch(a=a.type,a){case l:case m:case e:case g:case f:case p:return a;default:switch(a=a&&a.$$typeof,a){case k:case n:case h:return a;default:return u}}case r:case q:case d:return u}}}function v(a){return t(a)===m}exports.typeOf=t;exports.AsyncMode=l;exports.ConcurrentMode=m;exports.ContextConsumer=k;exports.ContextProvider=h;exports.Element=c;exports.ForwardRef=n;[m
+[31m-exports.Fragment=e;exports.Lazy=r;exports.Memo=q;exports.Portal=d;exports.Profiler=g;exports.StrictMode=f;exports.Suspense=p;exports.isValidElementType=function(a){return"string"===typeof a||"function"===typeof a||a===e||a===m||a===g||a===f||a===p||"object"===typeof a&&null!==a&&(a.$$typeof===r||a.$$typeof===q||a.$$typeof===h||a.$$typeof===k||a.$$typeof===n)};exports.isAsyncMode=function(a){return v(a)||t(a)===l};exports.isConcurrentMode=v;exports.isContextConsumer=function(a){return t(a)===k};[m
+[31m-exports.isContextProvider=function(a){return t(a)===h};exports.isElement=function(a){return"object"===typeof a&&null!==a&&a.$$typeof===c};exports.isForwardRef=function(a){return t(a)===n};exports.isFragment=function(a){return t(a)===e};exports.isLazy=function(a){return t(a)===r};exports.isMemo=function(a){return t(a)===q};exports.isPortal=function(a){return t(a)===d};exports.isProfiler=function(a){return t(a)===g};exports.isStrictMode=function(a){return t(a)===f};[m
+[31m-exports.isSuspense=function(a){return t(a)===p};[m
+[32m+[m[32m'use strict';var b="function"===typeof Symbol&&Symbol.for,c=b?Symbol.for("react.element"):60103,d=b?Symbol.for("react.portal"):60106,e=b?Symbol.for("react.fragment"):60107,f=b?Symbol.for("react.strict_mode"):60108,g=b?Symbol.for("react.profiler"):60114,h=b?Symbol.for("react.provider"):60109,k=b?Symbol.for("react.context"):60110,l=b?Symbol.for("react.async_mode"):60111,m=b?Symbol.for("react.concurrent_mode"):60111,n=b?Symbol.for("react.forward_ref"):60112,p=b?Symbol.for("react.suspense"):60113,q=b?[m
+[32m+[m[32mSymbol.for("react.suspense_list"):60120,r=b?Symbol.for("react.memo"):60115,t=b?Symbol.for("react.lazy"):60116,v=b?Symbol.for("react.block"):60121,w=b?Symbol.for("react.fundamental"):60117,x=b?Symbol.for("react.responder"):60118,y=b?Symbol.for("react.scope"):60119;[m
+[32m+[m[32mfunction z(a){if("object"===typeof a&&null!==a){var u=a.$$typeof;switch(u){case c:switch(a=a.type,a){case l:case m:case e:case g:case f:case p:return a;default:switch(a=a&&a.$$typeof,a){case k:case n:case t:case r:case h:return a;default:return u}}case d:return u}}}function A(a){return z(a)===m}exports.AsyncMode=l;exports.ConcurrentMode=m;exports.ContextConsumer=k;exports.ContextProvider=h;exports.Element=c;exports.ForwardRef=n;exports.Fragment=e;exports.Lazy=t;exports.Memo=r;exports.Portal=d;[m
+[32m+[m[32mexports.Profiler=g;exports.StrictMode=f;exports.Suspense=p;exports.isAsyncMode=function(a){return A(a)||z(a)===l};exports.isConcurrentMode=A;exports.isContextConsumer=function(a){return z(a)===k};exports.isContextProvider=function(a){return z(a)===h};exports.isElement=function(a){return"object"===typeof a&&null!==a&&a.$$typeof===c};exports.isForwardRef=function(a){return z(a)===n};exports.isFragment=function(a){return z(a)===e};exports.isLazy=function(a){return z(a)===t};[m
+[32m+[m[32mexports.isMemo=function(a){return z(a)===r};exports.isPortal=function(a){return z(a)===d};exports.isProfiler=function(a){return z(a)===g};exports.isStrictMode=function(a){return z(a)===f};exports.isSuspense=function(a){return z(a)===p};[m
+[32m+[m[32mexports.isValidElementType=function(a){return"string"===typeof a||"function"===typeof a||a===e||a===m||a===g||a===f||a===p||a===q||"object"===typeof a&&null!==a&&(a.$$typeof===t||a.$$typeof===r||a.$$typeof===h||a.$$typeof===k||a.$$typeof===n||a.$$typeof===w||a.$$typeof===x||a.$$typeof===y||a.$$typeof===v)};exports.typeOf=z;[m
+ [m
+[31m-},{}],10:[function(require,module,exports){[m
+[31m-(function (process){[m
+[32m+[m[32m},{}],11:[function(require,module,exports){[m
+[32m+[m[32m(function (process){(function (){[m
+ 'use strict';[m
+ [m
+ if (process.env.NODE_ENV === 'production') {[m
+[36m@@ -1332,6 +1310,6 @@[m [mif (process.env.NODE_ENV === 'production') {[m
+   module.exports = require('./cjs/react-is.development.js');[m
+ }[m
+ [m
+[31m-}).call(this,require('_process'))[m
+[31m-},{"./cjs/react-is.development.js":8,"./cjs/react-is.production.min.js":9,"_process":7}]},{},[4])(4)[m
+[31m-});[m
+\ No newline at end of file[m
+[32m+[m[32m}).call(this)}).call(this,require('_process'))[m
+[32m+[m[32m},{"./cjs/react-is.development.js":9,"./cjs/react-is.production.min.js":10,"_process":8}]},{},[4])(4)[m
+[32m+[m[32m});[m
+[1mdiff --git a/frontend/node_modules/prop-types/prop-types.min.js b/frontend/node_modules/prop-types/prop-types.min.js[m
+[1mindex c9024331..7a746e12 100644[m
+[1m--- a/frontend/node_modules/prop-types/prop-types.min.js[m
+[1m+++ b/frontend/node_modules/prop-types/prop-types.min.js[m
+[36m@@ -1 +1 @@[m
+[31m-!function(f){if("object"==typeof exports&&"undefined"!=typeof module)module.exports=f();else if("function"==typeof define&&define.amd)define([],f);else{var g;g="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:this,g.PropTypes=f()}}(function(){return function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a="function"==typeof require&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n||e)},l,l.exports,e,t,n,r)}return n[o].exports}for(var i="function"==typeof require&&require,o=0;o<r.length;o++)s(r[o]);return s}({1:[function(require,module,exports){"use strict";function emptyFunction(){}function emptyFunctionWithReset(){}var ReactPropTypesSecret=require(3);emptyFunctionWithReset.resetWarningCache=emptyFunction,module.exports=function(){function e(e,t,n,r,o,p){if(p!==ReactPropTypesSecret){var c=new Error("Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types");throw c.name="Invariant Violation",c}}function t(){return e}e.isRequired=e;var n={array:e,bool:e,func:e,number:e,object:e,string:e,symbol:e,any:e,arrayOf:t,element:e,elementType:e,instanceOf:t,node:e,objectOf:t,oneOf:t,oneOfType:t,shape:t,exact:t,checkPropTypes:emptyFunctionWithReset,resetWarningCache:emptyFunction};return n.PropTypes=n,n}},{3:3}],2:[function(require,module,exports){module.exports=require(1)()},{1:1}],3:[function(require,module,exports){"use strict";module.exports="SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED"},{}]},{},[2])(2)});[m
+\ No newline at end of file[m
+[32m+[m[32m!function(f){"object"==typeof exports&&"undefined"!=typeof module?module.exports=f():"function"==typeof define&&define.amd?define([],f):("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:this).PropTypes=f()}(function(){return function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var p="function"==typeof require&&require;if(!f&&p)return p(i,!0);if(u)return u(i,!0);throw(p=new Error("Cannot find module '"+i+"'")).code="MODULE_NOT_FOUND",p}p=n[i]={exports:{}},e[i][0].call(p.exports,function(r){return o(e[i][1][r]||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}({1:[function(require,module,exports){"use strict";var ReactPropTypesSecret=require(3);function emptyFunction(){}function emptyFunctionWithReset(){}emptyFunctionWithReset.resetWarningCache=emptyFunction,module.exports=function(){function e(e,t,n,r,o,c){if(c!==ReactPropTypesSecret){c=new Error("Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types");throw c.name="Invariant Violation",c}}function t(){return e}var n={array:e.isRequired=e,bigint:e,bool:e,func:e,number:e,object:e,string:e,symbol:e,any:e,arrayOf:t,element:e,elementType:e,instanceOf:t,node:e,objectOf:t,oneOf:t,oneOfType:t,shape:t,exact:t,checkPropTypes:emptyFunctionWithReset,resetWarningCache:emptyFunction};return n.PropTypes=n}},{3:3}],2:[function(require,module,exports){module.exports=require(1)()},{1:1}],3:[function(require,module,exports){"use strict";module.exports="SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED"},{}]},{},[2])(2)});[m
+\ No newline at end of file[m
+[1mdiff --git a/frontend/package-lock.json b/frontend/package-lock.json[m
+[1mindex be544d7d..37eaa876 100644[m
+[1m--- a/frontend/package-lock.json[m
+[1m+++ b/frontend/package-lock.json[m
+[36m@@ -8,6 +8,7 @@[m
+       "name": "q-a",[m
+       "version": "0.1.0",[m
+       "dependencies": {[m
+[32m+[m[32m        "@chatscope/chat-ui-kit-react": "^1.10.1",[m
+         "@material-ui/core": "^4.12.3",[m
+         "@material-ui/icons": "^4.11.2",[m
+         "@mui/material": "^5.2.4",[m
+[36m@@ -26,6 +27,7 @@[m
+         "react-redux": "^7.2.6",[m
+         "react-router-dom": "^5.2.0",[m
+         "react-scripts": "4.0.3",[m
+[32m+[m[32m        "react-simple-chatbot": "^0.6.1",[m
+         "react-tag-input-component": "^1.0.7",[m
+         "web-vitals": "^1.1.2"[m
+       }[m
+[36m@@ -1780,6 +1782,35 @@[m
+       "resolved": "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz",[m
+       "integrity": "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw=="[m
+     },[m
+[32m+[m[32m    "node_modules/@blakeembrey/deque": {[m
+[32m+[m[32m      "version": "1.0.5",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@blakeembrey/deque/-/deque-1.0.5.tgz",[m
+[32m+[m[32m      "integrity": "sha512-6xnwtvp9DY1EINIKdTfvfeAtCYw4OqBZJhtiqkT3ivjnEfa25VQ3TsKvaFfKm8MyGIEfE95qLe+bNEt3nB0Ylg=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@chatscope/chat-ui-kit-react": {[m
+[32m+[m[32m      "version": "1.10.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-react/-/chat-ui-kit-react-1.10.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-pJIxvM9zR2oPk601P/S3Du1lZZSQcv76+8/IUhhWo88oy1iqiw2yk71T3nzE0sr8kRfZ8FoSSxOjVx9j7amjow==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@chatscope/chat-ui-kit-styles": "^1.2.0",[m
+[32m+[m[32m        "@fortawesome/fontawesome-free": "^5.12.1",[m
+[32m+[m[32m        "@fortawesome/fontawesome-svg-core": "^1.2.26",[m
+[32m+[m[32m        "@fortawesome/free-solid-svg-icons": "^5.12.0",[m
+[32m+[m[32m        "@fortawesome/react-fontawesome": "^0.1.8",[m
+[32m+[m[32m        "classnames": "^2.2.6",[m
+[32m+[m[32m        "prop-types": "^15.7.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "prop-types": "^15.7.2",[m
+[32m+[m[32m        "react": "^16.12.0 || ^17.0.0 || ^18.2.0",[m
+[32m+[m[32m        "react-dom": "^16.12.0 || ^17.0.0 || ^18.2.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@chatscope/chat-ui-kit-styles": {[m
+[32m+[m[32m      "version": "1.4.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-styles/-/chat-ui-kit-styles-1.4.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-016mBJD3DESw7Nh+lkKcPd22xG92ghA0VpIXIbjQtmXhC7Ve6wRazTy8z1Ahut+Tbv179+JxrftuMngsj/yV8Q=="[m
+[32m+[m[32m    },[m
+     "node_modules/@cnakazawa/watch": {[m
+       "version": "1.0.4",[m
+       "resolved": "https://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz",[m
+[36m@@ -2506,6 +2537,60 @@[m
+       "resolved": "https://registry.npmjs.org/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.6.1.tgz",[m
+       "integrity": "sha512-9FqhNjKQWpQ3fGnSOCovHOm+yhhiorKEqYLAfd525jWavunDJcx8rOW6i6ozAh+FbwcYMkL7b+3j4UR/30MpoQ=="[m
+     },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-common-types": {[m
+[32m+[m[32m      "version": "0.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-free": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-eYm8vijH/hpzr/6/1CJ/V/Eb1xQFW2nnUKArb3z+yUWv7HTwj6M7SP957oMjfZjAHU6qpoNc2wQvIxBLWYa/Jg==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/fontawesome-svg-core": {[m
+[32m+[m[32m      "version": "1.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-YUcsLQKYb6DmaJjIHdDWpBIGCcyE/W+p/LMGvjQem55Mm2XWVAP5kWTMKWLv9lwpCVjpLxPyOMOyUocP1GxrtA==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/free-solid-svg-icons": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/@fortawesome/react-fontawesome": {[m
+[32m+[m[32m      "version": "0.1.19",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.19.tgz",[m
+[32m+[m[32m      "integrity": "sha512-Hyb+lB8T18cvLNX0S3llz7PcSOAJMLwiVKBuuzwM/nI5uoBw+gQjnf9il0fR1C3DKOI5Kc79pkJ4/xB0Uw9aFQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "prop-types": "^15.8.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-svg-core": "~1 || ~6",[m
+[32m+[m[32m        "react": ">=16.x"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/@grpc/grpc-js": {[m
+       "version": "1.4.4",[m
+       "resolved": "https://registry.npmjs.org/@grpc/grpc-js/-/grpc-js-1.4.4.tgz",[m
+[36m@@ -7087,6 +7172,11 @@[m
+         "node": ">=0.10.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/classnames": {[m
+[32m+[m[32m      "version": "2.3.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/classnames/-/classnames-2.3.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw=="[m
+[32m+[m[32m    },[m
+     "node_modules/clean-css": {[m
+       "version": "4.2.3",[m
+       "resolved": "https://registry.npmjs.org/clean-css/-/clean-css-4.2.3.tgz",[m
+[36m@@ -8921,6 +9011,20 @@[m
+         "url": "https://opencollective.com/eslint"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/eslint-config-prettier": {[m
+[32m+[m[32m      "version": "4.3.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-4.3.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-sZwhSTHVVz78+kYD3t5pCWSYEdVSBR0PXnwjDRsUs8ytIrK8PLXw+6FKp8r3Z7rx4ZszdetWlXYKOHoUrrwPlA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "get-stdin": "^6.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "eslint-config-prettier-check": "bin/cli.js"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "eslint": ">=3.14.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/eslint-config-react-app": {[m
+       "version": "6.0.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-config-react-app/-/eslint-config-react-app-6.0.0.tgz",[m
+[36m@@ -9263,6 +9367,26 @@[m
+       "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz",[m
+       "integrity": "sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg=="[m
+     },[m
+[32m+[m[32m    "node_modules/eslint-plugin-prettier": {[m
+[32m+[m[32m      "version": "3.4.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-3.4.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-htg25EUYUeIhKHXjOinK4BgCcDwtLHjqaxCDsMy5nbnUMkKFvIhMVCp+5GFUXQ4Nr8lBsPqtGAqBenbpFqAA2g==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "prettier-linter-helpers": "^1.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "eslint": ">=5.0.0",[m
+[32m+[m[32m        "prettier": ">=1.13.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependenciesMeta": {[m
+[32m+[m[32m        "eslint-config-prettier": {[m
+[32m+[m[32m          "optional": true[m
+[32m+[m[32m        }[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/eslint-plugin-react": {[m
+       "version": "7.24.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.24.0.tgz",[m
+[36m@@ -10709,6 +10833,14 @@[m
+         "node": ">=8.0.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/get-stdin": {[m
+[32m+[m[32m      "version": "6.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/get-stdin/-/get-stdin-6.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-jp4tHawyV7+fkkSKyvjuLZswblUtz+SQKzSWnBbii16BuZksJlU1wuBYXY75r+duh/llF1ur6oNwi+2ZzjKZ7g==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=4"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/get-stream": {[m
+       "version": "4.1.0",[m
+       "resolved": "https://registry.npmjs.org/get-stream/-/get-stream-4.1.0.tgz",[m
+[36m@@ -15786,6 +15918,256 @@[m
+         "wrappy": "1"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/onchange": {[m
+[32m+[m[32m      "version": "5.2.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/onchange/-/onchange-5.2.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-kBNMF4KU1m0GkZCANckQZs3N41esf950T/gv7JIjNS6qWS8R34+iCKk/wmVRPEdaYCA+yi2aK2vNXS0RaB/V2A==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "@blakeembrey/deque": "^1.0.3",[m
+[32m+[m[32m        "arrify": "^1.0.1",[m
+[32m+[m[32m        "chokidar": "^2.0.0",[m
+[32m+[m[32m        "cross-spawn": "^6.0.0",[m
+[32m+[m[32m        "minimist": "^1.2.0",[m
+[32m+[m[32m        "supports-color": "^5.5.0",[m
+[32m+[m[32m        "tree-kill": "^1.2.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "onchange": "cli.js"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/anymatch": {[m
+[32m+[m[32m      "version": "2.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/anymatch/-/anymatch-2.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "micromatch": "^3.1.4",[m
+[32m+[m[32m        "normalize-path": "^2.1.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/anymatch/node_modules/normalize-path": {[m
+[32m+[m[32m      "version": "2.1.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/normalize-path/-/normalize-path-2.1.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-3pKJwH184Xo/lnH6oyP1q2pMd7HcypqqmRs91/6/i2CGtWwIKGCkOOMTm/zXbgTEWHw1uNpNi/igc3ePOYHb6w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "remove-trailing-separator": "^1.0.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/arrify": {[m
+[32m+[m[32m      "version": "1.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/arrify/-/arrify-1.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-3CYzex9M9FGQjCGMGyi6/31c8GJbgb0qGyrx5HWxPd0aCwh4cB2YjMb2Xf9UuoogrMrlO9cTqnB5rI5GHZTcUA==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/binary-extensions": {[m
+[32m+[m[32m      "version": "1.13.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-1.13.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-Un7MIEDdUC5gNpcGDV97op1Ywk748MpHcFTHoYs6qnj1Z3j7I53VG3nwZhKzoBZmbdRNnb6WRdFlwl7tSDuZGw==",[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/braces": {[m
+[32m+[m[32m      "version": "2.3.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/braces/-/braces-2.3.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "arr-flatten": "^1.1.0",[m
+[32m+[m[32m        "array-unique": "^0.3.2",[m
+[32m+[m[32m        "extend-shallow": "^2.0.1",[m
+[32m+[m[32m        "fill-range": "^4.0.0",[m
+[32m+[m[32m        "isobject": "^3.0.1",[m
+[32m+[m[32m        "repeat-element": "^1.1.2",[m
+[32m+[m[32m        "snapdragon": "^0.8.1",[m
+[32m+[m[32m        "snapdragon-node": "^2.0.1",[m
+[32m+[m[32m        "split-string": "^3.0.2",[m
+[32m+[m[32m        "to-regex": "^3.0.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/braces/node_modules/extend-shallow": {[m
+[32m+[m[32m      "version": "2.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extendable": "^0.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/chokidar": {[m
+[32m+[m[32m      "version": "2.1.8",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/chokidar/-/chokidar-2.1.8.tgz",[m
+[32m+[m[32m      "integrity": "sha512-ZmZUazfOzf0Nve7duiCKD23PFSCs4JPoYyccjUFF3aQkQadqBhfzhjkwBH2mNOG9cTBwhamM37EIsIkZw3nRgg==",[m
+[32m+[m[32m      "deprecated": "Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "anymatch": "^2.0.0",[m
+[32m+[m[32m        "async-each": "^1.0.1",[m
+[32m+[m[32m        "braces": "^2.3.2",[m
+[32m+[m[32m        "glob-parent": "^3.1.0",[m
+[32m+[m[32m        "inherits": "^2.0.3",[m
+[32m+[m[32m        "is-binary-path": "^1.0.0",[m
+[32m+[m[32m        "is-glob": "^4.0.0",[m
+[32m+[m[32m        "normalize-path": "^3.0.0",[m
+[32m+[m[32m        "path-is-absolute": "^1.0.0",[m
+[32m+[m[32m        "readdirp": "^2.2.1",[m
+[32m+[m[32m        "upath": "^1.1.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "optionalDependencies": {[m
+[32m+[m[32m        "fsevents": "^1.2.7"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/fill-range": {[m
+[32m+[m[32m      "version": "4.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/fill-range/-/fill-range-4.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-VcpLTWqWDiTerugjj8e3+esbg+skS3M9e54UuR3iCeIDMXCLTsAH8hTSzDQU/X6/6t3eYkOKoZSef2PlU6U1XQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "extend-shallow": "^2.0.1",[m
+[32m+[m[32m        "is-number": "^3.0.0",[m
+[32m+[m[32m        "repeat-string": "^1.6.1",[m
+[32m+[m[32m        "to-regex-range": "^2.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/fill-range/node_modules/extend-shallow": {[m
+[32m+[m[32m      "version": "2.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extendable": "^0.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/fsevents": {[m
+[32m+[m[32m      "version": "1.2.13",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz",[m
+[32m+[m[32m      "integrity": "sha512-oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw==",[m
+[32m+[m[32m      "deprecated": "fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.",[m
+[32m+[m[32m      "hasInstallScript": true,[m
+[32m+[m[32m      "optional": true,[m
+[32m+[m[32m      "os": [[m
+[32m+[m[32m        "darwin"[m
+[32m+[m[32m      ],[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "bindings": "^1.5.0",[m
+[32m+[m[32m        "nan": "^2.12.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">= 4.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/glob-parent": {[m
+[32m+[m[32m      "version": "3.1.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/glob-parent/-/glob-parent-3.1.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-E8Ak/2+dZY6fnzlR7+ueWvhsH1SjHr4jjss4YS/h4py44jY9MhK/VFdaZJAWDz6BbL21KeteKxFSFpq8OS5gVA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-glob": "^3.1.0",[m
+[32m+[m[32m        "path-dirname": "^1.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/glob-parent/node_modules/is-glob": {[m
+[32m+[m[32m      "version": "3.1.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-glob/-/is-glob-3.1.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-UFpDDrPgM6qpnFNI+rh/p3bUaq9hKLZN8bMUWzxmcnZVS3omf4IPK+BrewlnWjO1WmUsMYuSjKh4UJuV4+Lqmw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-extglob": "^2.1.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-binary-path": {[m
+[32m+[m[32m      "version": "1.0.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-1.0.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-9fRVlXc0uCxEDj1nQzaWONSpbTfx0FmJfzHF7pwlI8DkWGoHBBea4Pg5Ky0ojwwxQmnSifgbKkI06Qv0Ljgj+Q==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "binary-extensions": "^1.0.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-number": {[m
+[32m+[m[32m      "version": "3.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/is-number/-/is-number-3.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-4cboCqIpliH+mAvFNegjZQ4kgKc3ZUhQVr3HvWbSh5q3WH2v82ct+T2Y1hdU5Gdtorx/cLifQjqCbL7bpznLTg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "kind-of": "^3.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/is-number/node_modules/kind-of": {[m
+[32m+[m[32m      "version": "3.2.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-3.2.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-NOW9QQXMoZGg/oqnVNoNTTIFEIid1627WCffUBJEdMxYApq7mNE7CpzucIPc+ZQg25Phej7IJSmX3hO+oblOtQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-buffer": "^1.1.5"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/micromatch": {[m
+[32m+[m[32m      "version": "3.1.10",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz",[m
+[32m+[m[32m      "integrity": "sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "arr-diff": "^4.0.0",[m
+[32m+[m[32m        "array-unique": "^0.3.2",[m
+[32m+[m[32m        "braces": "^2.3.1",[m
+[32m+[m[32m        "define-property": "^2.0.2",[m
+[32m+[m[32m        "extend-shallow": "^3.0.2",[m
+[32m+[m[32m        "extglob": "^2.0.4",[m
+[32m+[m[32m        "fragment-cache": "^0.2.1",[m
+[32m+[m[32m        "kind-of": "^6.0.2",[m
+[32m+[m[32m        "nanomatch": "^1.2.9",[m
+[32m+[m[32m        "object.pick": "^1.3.0",[m
+[32m+[m[32m        "regex-not": "^1.0.0",[m
+[32m+[m[32m        "snapdragon": "^0.8.1",[m
+[32m+[m[32m        "to-regex": "^3.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/readdirp": {[m
+[32m+[m[32m      "version": "2.2.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-1JU/8q+VgFZyxwrJ+SVIOsh+KywWGpds3NTqikiKpDMZWScmAYyKIgqkO+ARvNWJfXeXR1zxz7aHF4u4CyH6vQ==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "graceful-fs": "^4.1.11",[m
+[32m+[m[32m        "micromatch": "^3.1.10",[m
+[32m+[m[32m        "readable-stream": "^2.0.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/onchange/node_modules/to-regex-range": {[m
+[32m+[m[32m      "version": "2.1.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-2.1.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-ZZWNfCjUokXXDGXFpZehJIkZqq91BcULFq/Pi7M5i4JnxXdhMKAK682z8bCW3o8Hj1wuuzoKcW3DfVzaP6VuNg==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "is-number": "^3.0.0",[m
+[32m+[m[32m        "repeat-string": "^1.6.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/onetime": {[m
+       "version": "5.1.2",[m
+       "resolved": "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz",[m
+[36m@@ -17574,6 +17956,28 @@[m
+         "node": ">=0.10.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/prettier": {[m
+[32m+[m[32m      "version": "1.19.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier/-/prettier-1.19.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==",[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "prettier": "bin-prettier.js"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=4"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/prettier-linter-helpers": {[m
+[32m+[m[32m      "version": "1.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier-linter-helpers/-/prettier-linter-helpers-1.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "fast-diff": "^1.1.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=6.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/pretty-bytes": {[m
+       "version": "5.6.0",[m
+       "resolved": "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz",[m
+[36m@@ -17695,13 +18099,13 @@[m
+       }[m
+     },[m
+     "node_modules/prop-types": {[m
+[31m-      "version": "15.7.2",[m
+[31m-      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz",[m
+[31m-      "integrity": "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==",[m
+[32m+[m[32m      "version": "15.8.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==",[m
+       "dependencies": {[m
+         "loose-envify": "^1.4.0",[m
+         "object-assign": "^4.1.1",[m
+[31m-        "react-is": "^16.8.1"[m
+[32m+[m[32m        "react-is": "^16.13.1"[m
+       }[m
+     },[m
+     "node_modules/protobufjs": {[m
+[36m@@ -17919,6 +18323,11 @@[m
+         "performance-now": "^2.1.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/random-id": {[m
+[32m+[m[32m      "version": "0.0.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/random-id/-/random-id-0.0.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-e1E0fCzmRQcSxeAFnCybHkVi4filc7c07INtA1BAjKFRfKyO+upZ3q0OhxMnyJ2PRwTSpy/jiMN0ZXwLtyQaBw=="[m
+[32m+[m[32m    },[m
+     "node_modules/randombytes": {[m
+       "version": "2.1.0",[m
+       "resolved": "https://registry.npmjs.org/randombytes/-/randombytes-2.1.0.tgz",[m
+[36m@@ -18458,6 +18867,68 @@[m
+         }[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot": {[m
+[32m+[m[32m      "version": "0.6.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react-simple-chatbot/-/react-simple-chatbot-0.6.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-q9y5GXwBvD+YvLgDVyDuZHYMkrcgIirm1FVV9RkR7XojPmbiX1lCzT6ib8U1M5zh42kTUBRnszXzkAGm9e0K8w==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "eslint-config-prettier": "^4.1.0",[m
+[32m+[m[32m        "eslint-plugin-prettier": "^3.0.1",[m
+[32m+[m[32m        "flatted": "^2.0.0",[m
+[32m+[m[32m        "onchange": "^5.2.0",[m
+[32m+[m[32m        "prettier": "^1.16.4",[m
+[32m+[m[32m        "prop-types": "^15.6.0",[m
+[32m+[m[32m        "random-id": "0.0.2",[m
+[32m+[m[32m        "react": "^16.4.1",[m
+[32m+[m[32m        "react-dom": "^16.4.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "react": "^16.3.0",[m
+[32m+[m[32m        "react-dom": "^16.3.0",[m
+[32m+[m[32m        "styled-components": "^4.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/flatted": {[m
+[32m+[m[32m      "version": "2.0.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/flatted/-/flatted-2.0.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-r5wGx7YeOwNWNlCA0wQ86zKyDLMQr+/RB8xy74M4hTphfmjlijTSSXGuH8rnvKZnfT9i+75zmd8jcKdMR4O6jA=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/react": {[m
+[32m+[m[32m      "version": "16.14.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1",[m
+[32m+[m[32m        "prop-types": "^15.6.2"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "engines": {[m
+[32m+[m[32m        "node": ">=0.10.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/react-dom": {[m
+[32m+[m[32m      "version": "16.14.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1",[m
+[32m+[m[32m        "prop-types": "^15.6.2",[m
+[32m+[m[32m        "scheduler": "^0.19.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "peerDependencies": {[m
+[32m+[m[32m        "react": "^16.14.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "node_modules/react-simple-chatbot/node_modules/scheduler": {[m
+[32m+[m[32m      "version": "0.19.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/scheduler/-/scheduler-0.19.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==",[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "loose-envify": "^1.1.0",[m
+[32m+[m[32m        "object-assign": "^4.1.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/react-tag-input-component": {[m
+       "version": "1.0.7",[m
+       "resolved": "https://registry.npmjs.org/react-tag-input-component/-/react-tag-input-component-1.0.7.tgz",[m
+[36m@@ -21079,6 +21550,14 @@[m
+         "node": ">=8"[m
+       }[m
+     },[m
+[32m+[m[32m    "node_modules/tree-kill": {[m
+[32m+[m[32m      "version": "1.2.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/tree-kill/-/tree-kill-1.2.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==",[m
+[32m+[m[32m      "bin": {[m
+[32m+[m[32m        "tree-kill": "cli.js"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "node_modules/tryer": {[m
+       "version": "1.0.1",[m
+       "resolved": "https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz",[m
+[36m@@ -24568,6 +25047,30 @@[m
+       "resolved": "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz",[m
+       "integrity": "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw=="[m
+     },[m
+[32m+[m[32m    "@blakeembrey/deque": {[m
+[32m+[m[32m      "version": "1.0.5",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@blakeembrey/deque/-/deque-1.0.5.tgz",[m
+[32m+[m[32m      "integrity": "sha512-6xnwtvp9DY1EINIKdTfvfeAtCYw4OqBZJhtiqkT3ivjnEfa25VQ3TsKvaFfKm8MyGIEfE95qLe+bNEt3nB0Ylg=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@chatscope/chat-ui-kit-react": {[m
+[32m+[m[32m      "version": "1.10.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-react/-/chat-ui-kit-react-1.10.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-pJIxvM9zR2oPk601P/S3Du1lZZSQcv76+8/IUhhWo88oy1iqiw2yk71T3nzE0sr8kRfZ8FoSSxOjVx9j7amjow==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "@chatscope/chat-ui-kit-styles": "^1.2.0",[m
+[32m+[m[32m        "@fortawesome/fontawesome-free": "^5.12.1",[m
+[32m+[m[32m        "@fortawesome/fontawesome-svg-core": "^1.2.26",[m
+[32m+[m[32m        "@fortawesome/free-solid-svg-icons": "^5.12.0",[m
+[32m+[m[32m        "@fortawesome/react-fontawesome": "^0.1.8",[m
+[32m+[m[32m        "classnames": "^2.2.6",[m
+[32m+[m[32m        "prop-types": "^15.7.2"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@chatscope/chat-ui-kit-styles": {[m
+[32m+[m[32m      "version": "1.4.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@chatscope/chat-ui-kit-styles/-/chat-ui-kit-styles-1.4.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-016mBJD3DESw7Nh+lkKcPd22xG92ghA0VpIXIbjQtmXhC7Ve6wRazTy8z1Ahut+Tbv179+JxrftuMngsj/yV8Q=="[m
+[32m+[m[32m    },[m
+     "@cnakazawa/watch": {[m
+       "version": "1.0.4",[m
+       "resolved": "https://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz",[m
+[36m@@ -25245,6 +25748,40 @@[m
+       "resolved": "https://registry.npmjs.org/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.6.1.tgz",[m
+       "integrity": "sha512-9FqhNjKQWpQ3fGnSOCovHOm+yhhiorKEqYLAfd525jWavunDJcx8rOW6i6ozAh+FbwcYMkL7b+3j4UR/30MpoQ=="[m
+     },[m
+[32m+[m[32m    "@fortawesome/fontawesome-common-types": {[m
+[32m+[m[32m      "version": "0.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@fortawesome/fontawesome-free": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-eYm8vijH/hpzr/6/1CJ/V/Eb1xQFW2nnUKArb3z+yUWv7HTwj6M7SP957oMjfZjAHU6qpoNc2wQvIxBLWYa/Jg=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@fortawesome/fontawesome-svg-core": {[m
+[32m+[m[32m      "version": "1.2.36",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.36.tgz",[m
+[32m+[m[32m      "integrity": "sha512-YUcsLQKYb6DmaJjIHdDWpBIGCcyE/W+p/LMGvjQem55Mm2XWVAP5kWTMKWLv9lwpCVjpLxPyOMOyUocP1GxrtA==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@fortawesome/free-solid-svg-icons": {[m
+[32m+[m[32m      "version": "5.15.4",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.15.4.tgz",[m
+[32m+[m[32m      "integrity": "sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "@fortawesome/fontawesome-common-types": "^0.2.36"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "@fortawesome/react-fontawesome": {[m
+[32m+[m[32m      "version": "0.1.19",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.19.tgz",[m
+[32m+[m[32m      "integrity": "sha512-Hyb+lB8T18cvLNX0S3llz7PcSOAJMLwiVKBuuzwM/nI5uoBw+gQjnf9il0fR1C3DKOI5Kc79pkJ4/xB0Uw9aFQ==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "prop-types": "^15.8.1"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "@grpc/grpc-js": {[m
+       "version": "1.4.4",[m
+       "resolved": "https://registry.npmjs.org/@grpc/grpc-js/-/grpc-js-1.4.4.tgz",[m
+[36m@@ -28681,6 +29218,11 @@[m
+         }[m
+       }[m
+     },[m
+[32m+[m[32m    "classnames": {[m
+[32m+[m[32m      "version": "2.3.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/classnames/-/classnames-2.3.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw=="[m
+[32m+[m[32m    },[m
+     "clean-css": {[m
+       "version": "4.2.3",[m
+       "resolved": "https://registry.npmjs.org/clean-css/-/clean-css-4.2.3.tgz",[m
+[36m@@ -30285,6 +30827,14 @@[m
+         }[m
+       }[m
+     },[m
+[32m+[m[32m    "eslint-config-prettier": {[m
+[32m+[m[32m      "version": "4.3.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-4.3.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-sZwhSTHVVz78+kYD3t5pCWSYEdVSBR0PXnwjDRsUs8ytIrK8PLXw+6FKp8r3Z7rx4ZszdetWlXYKOHoUrrwPlA==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "get-stdin": "^6.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "eslint-config-react-app": {[m
+       "version": "6.0.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-config-react-app/-/eslint-config-react-app-6.0.0.tgz",[m
+[36m@@ -30530,6 +31080,14 @@[m
+         }[m
+       }[m
+     },[m
+[32m+[m[32m    "eslint-plugin-prettier": {[m
+[32m+[m[32m      "version": "3.4.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-3.4.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-htg25EUYUeIhKHXjOinK4BgCcDwtLHjqaxCDsMy5nbnUMkKFvIhMVCp+5GFUXQ4Nr8lBsPqtGAqBenbpFqAA2g==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "prettier-linter-helpers": "^1.0.0"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "eslint-plugin-react": {[m
+       "version": "7.24.0",[m
+       "resolved": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.24.0.tgz",[m
+[36m@@ -31504,6 +32062,11 @@[m
+       "resolved": "https://registry.npmjs.org/get-package-type/-/get-package-type-0.1.0.tgz",[m
+       "integrity": "sha512-pjzuKtY64GYfWizNAJ0fr9VqttZkNiK2iS430LtIHzjBEr6bX8Am2zm4sW4Ro5wjWW5cAlRL1qAMTcXbjNAO2Q=="[m
+     },[m
+[32m+[m[32m    "get-stdin": {[m
+[32m+[m[32m      "version": "6.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/get-stdin/-/get-stdin-6.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-jp4tHawyV7+fkkSKyvjuLZswblUtz+SQKzSWnBbii16BuZksJlU1wuBYXY75r+duh/llF1ur6oNwi+2ZzjKZ7g=="[m
+[32m+[m[32m    },[m
+     "get-stream": {[m
+       "version": "4.1.0",[m
+       "resolved": "https://registry.npmjs.org/get-stream/-/get-stream-4.1.0.tgz",[m
+[36m@@ -35359,6 +35922,212 @@[m
+         "wrappy": "1"[m
+       }[m
+     },[m
+[32m+[m[32m    "onchange": {[m
+[32m+[m[32m      "version": "5.2.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/onchange/-/onchange-5.2.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-kBNMF4KU1m0GkZCANckQZs3N41esf950T/gv7JIjNS6qWS8R34+iCKk/wmVRPEdaYCA+yi2aK2vNXS0RaB/V2A==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "@blakeembrey/deque": "^1.0.3",[m
+[32m+[m[32m        "arrify": "^1.0.1",[m
+[32m+[m[32m        "chokidar": "^2.0.0",[m
+[32m+[m[32m        "cross-spawn": "^6.0.0",[m
+[32m+[m[32m        "minimist": "^1.2.0",[m
+[32m+[m[32m        "supports-color": "^5.5.0",[m
+[32m+[m[32m        "tree-kill": "^1.2.0"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "anymatch": {[m
+[32m+[m[32m          "version": "2.0.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/anymatch/-/anymatch-2.0.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "micromatch": "^3.1.4",[m
+[32m+[m[32m            "normalize-path": "^2.1.1"[m
+[32m+[m[32m          },[m
+[32m+[m[32m          "dependencies": {[m
+[32m+[m[32m            "normalize-path": {[m
+[32m+[m[32m              "version": "2.1.1",[m
+[32m+[m[32m              "resolved": "https://registry.npmjs.org/normalize-path/-/normalize-path-2.1.1.tgz",[m
+[32m+[m[32m              "integrity": "sha512-3pKJwH184Xo/lnH6oyP1q2pMd7HcypqqmRs91/6/i2CGtWwIKGCkOOMTm/zXbgTEWHw1uNpNi/igc3ePOYHb6w==",[m
+[32m+[m[32m              "requires": {[m
+[32m+[m[32m                "remove-trailing-separator": "^1.0.1"[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "arrify": {[m
+[32m+[m[32m          "version": "1.0.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/arrify/-/arrify-1.0.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-3CYzex9M9FGQjCGMGyi6/31c8GJbgb0qGyrx5HWxPd0aCwh4cB2YjMb2Xf9UuoogrMrlO9cTqnB5rI5GHZTcUA=="[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "binary-extensions": {[m
+[32m+[m[32m          "version": "1.13.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-1.13.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-Un7MIEDdUC5gNpcGDV97op1Ywk748MpHcFTHoYs6qnj1Z3j7I53VG3nwZhKzoBZmbdRNnb6WRdFlwl7tSDuZGw=="[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "braces": {[m
+[32m+[m[32m          "version": "2.3.2",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/braces/-/braces-2.3.2.tgz",[m
+[32m+[m[32m          "integrity": "sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "arr-flatten": "^1.1.0",[m
+[32m+[m[32m            "array-unique": "^0.3.2",[m
+[32m+[m[32m            "extend-shallow": "^2.0.1",[m
+[32m+[m[32m            "fill-range": "^4.0.0",[m
+[32m+[m[32m            "isobject": "^3.0.1",[m
+[32m+[m[32m            "repeat-element": "^1.1.2",[m
+[32m+[m[32m            "snapdragon": "^0.8.1",[m
+[32m+[m[32m            "snapdragon-node": "^2.0.1",[m
+[32m+[m[32m            "split-string": "^3.0.2",[m
+[32m+[m[32m            "to-regex": "^3.0.1"[m
+[32m+[m[32m          },[m
+[32m+[m[32m          "dependencies": {[m
+[32m+[m[32m            "extend-shallow": {[m
+[32m+[m[32m              "version": "2.0.1",[m
+[32m+[m[32m              "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m              "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m              "requires": {[m
+[32m+[m[32m                "is-extendable": "^0.1.0"[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "chokidar": {[m
+[32m+[m[32m          "version": "2.1.8",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/chokidar/-/chokidar-2.1.8.tgz",[m
+[32m+[m[32m          "integrity": "sha512-ZmZUazfOzf0Nve7duiCKD23PFSCs4JPoYyccjUFF3aQkQadqBhfzhjkwBH2mNOG9cTBwhamM37EIsIkZw3nRgg==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "anymatch": "^2.0.0",[m
+[32m+[m[32m            "async-each": "^1.0.1",[m
+[32m+[m[32m            "braces": "^2.3.2",[m
+[32m+[m[32m            "fsevents": "^1.2.7",[m
+[32m+[m[32m            "glob-parent": "^3.1.0",[m
+[32m+[m[32m            "inherits": "^2.0.3",[m
+[32m+[m[32m            "is-binary-path": "^1.0.0",[m
+[32m+[m[32m            "is-glob": "^4.0.0",[m
+[32m+[m[32m            "normalize-path": "^3.0.0",[m
+[32m+[m[32m            "path-is-absolute": "^1.0.0",[m
+[32m+[m[32m            "readdirp": "^2.2.1",[m
+[32m+[m[32m            "upath": "^1.1.1"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "fill-range": {[m
+[32m+[m[32m          "version": "4.0.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/fill-range/-/fill-range-4.0.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-VcpLTWqWDiTerugjj8e3+esbg+skS3M9e54UuR3iCeIDMXCLTsAH8hTSzDQU/X6/6t3eYkOKoZSef2PlU6U1XQ==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "extend-shallow": "^2.0.1",[m
+[32m+[m[32m            "is-number": "^3.0.0",[m
+[32m+[m[32m            "repeat-string": "^1.6.1",[m
+[32m+[m[32m            "to-regex-range": "^2.1.0"[m
+[32m+[m[32m          },[m
+[32m+[m[32m          "dependencies": {[m
+[32m+[m[32m            "extend-shallow": {[m
+[32m+[m[32m              "version": "2.0.1",[m
+[32m+[m[32m              "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",[m
+[32m+[m[32m              "integrity": "sha512-zCnTtlxNoAiDc3gqY2aYAWFx7XWWiasuF2K8Me5WbN8otHKTUKBwjPtNpRs/rbUZm7KxWAaNj7P1a/p52GbVug==",[m
+[32m+[m[32m              "requires": {[m
+[32m+[m[32m                "is-extendable": "^0.1.0"[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "fsevents": {[m
+[32m+[m[32m          "version": "1.2.13",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz",[m
+[32m+[m[32m          "integrity": "sha512-oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw==",[m
+[32m+[m[32m          "optional": true,[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "bindings": "^1.5.0",[m
+[32m+[m[32m            "nan": "^2.12.1"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "glob-parent": {[m
+[32m+[m[32m          "version": "3.1.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/glob-parent/-/glob-parent-3.1.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-E8Ak/2+dZY6fnzlR7+ueWvhsH1SjHr4jjss4YS/h4py44jY9MhK/VFdaZJAWDz6BbL21KeteKxFSFpq8OS5gVA==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "is-glob": "^3.1.0",[m
+[32m+[m[32m            "path-dirname": "^1.0.0"[m
+[32m+[m[32m          },[m
+[32m+[m[32m          "dependencies": {[m
+[32m+[m[32m            "is-glob": {[m
+[32m+[m[32m              "version": "3.1.0",[m
+[32m+[m[32m              "resolved": "https://registry.npmjs.org/is-glob/-/is-glob-3.1.0.tgz",[m
+[32m+[m[32m              "integrity": "sha512-UFpDDrPgM6qpnFNI+rh/p3bUaq9hKLZN8bMUWzxmcnZVS3omf4IPK+BrewlnWjO1WmUsMYuSjKh4UJuV4+Lqmw==",[m
+[32m+[m[32m              "requires": {[m
+[32m+[m[32m                "is-extglob": "^2.1.0"[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "is-binary-path": {[m
+[32m+[m[32m          "version": "1.0.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-1.0.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-9fRVlXc0uCxEDj1nQzaWONSpbTfx0FmJfzHF7pwlI8DkWGoHBBea4Pg5Ky0ojwwxQmnSifgbKkI06Qv0Ljgj+Q==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "binary-extensions": "^1.0.0"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "is-number": {[m
+[32m+[m[32m          "version": "3.0.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/is-number/-/is-number-3.0.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-4cboCqIpliH+mAvFNegjZQ4kgKc3ZUhQVr3HvWbSh5q3WH2v82ct+T2Y1hdU5Gdtorx/cLifQjqCbL7bpznLTg==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "kind-of": "^3.0.2"[m
+[32m+[m[32m          },[m
+[32m+[m[32m          "dependencies": {[m
+[32m+[m[32m            "kind-of": {[m
+[32m+[m[32m              "version": "3.2.2",[m
+[32m+[m[32m              "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-3.2.2.tgz",[m
+[32m+[m[32m              "integrity": "sha512-NOW9QQXMoZGg/oqnVNoNTTIFEIid1627WCffUBJEdMxYApq7mNE7CpzucIPc+ZQg25Phej7IJSmX3hO+oblOtQ==",[m
+[32m+[m[32m              "requires": {[m
+[32m+[m[32m                "is-buffer": "^1.1.5"[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "micromatch": {[m
+[32m+[m[32m          "version": "3.1.10",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz",[m
+[32m+[m[32m          "integrity": "sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "arr-diff": "^4.0.0",[m
+[32m+[m[32m            "array-unique": "^0.3.2",[m
+[32m+[m[32m            "braces": "^2.3.1",[m
+[32m+[m[32m            "define-property": "^2.0.2",[m
+[32m+[m[32m            "extend-shallow": "^3.0.2",[m
+[32m+[m[32m            "extglob": "^2.0.4",[m
+[32m+[m[32m            "fragment-cache": "^0.2.1",[m
+[32m+[m[32m            "kind-of": "^6.0.2",[m
+[32m+[m[32m            "nanomatch": "^1.2.9",[m
+[32m+[m[32m            "object.pick": "^1.3.0",[m
+[32m+[m[32m            "regex-not": "^1.0.0",[m
+[32m+[m[32m            "snapdragon": "^0.8.1",[m
+[32m+[m[32m            "to-regex": "^3.0.2"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "readdirp": {[m
+[32m+[m[32m          "version": "2.2.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-1JU/8q+VgFZyxwrJ+SVIOsh+KywWGpds3NTqikiKpDMZWScmAYyKIgqkO+ARvNWJfXeXR1zxz7aHF4u4CyH6vQ==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "graceful-fs": "^4.1.11",[m
+[32m+[m[32m            "micromatch": "^3.1.10",[m
+[32m+[m[32m            "readable-stream": "^2.0.2"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "to-regex-range": {[m
+[32m+[m[32m          "version": "2.1.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-2.1.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-ZZWNfCjUokXXDGXFpZehJIkZqq91BcULFq/Pi7M5i4JnxXdhMKAK682z8bCW3o8Hj1wuuzoKcW3DfVzaP6VuNg==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "is-number": "^3.0.0",[m
+[32m+[m[32m            "repeat-string": "^1.6.1"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        }[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "onetime": {[m
+       "version": "5.1.2",[m
+       "resolved": "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz",[m
+[36m@@ -36793,6 +37562,19 @@[m
+       "resolved": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.4.tgz",[m
+       "integrity": "sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw="[m
+     },[m
+[32m+[m[32m    "prettier": {[m
+[32m+[m[32m      "version": "1.19.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier/-/prettier-1.19.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew=="[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "prettier-linter-helpers": {[m
+[32m+[m[32m      "version": "1.0.0",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prettier-linter-helpers/-/prettier-linter-helpers-1.0.0.tgz",[m
+[32m+[m[32m      "integrity": "sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "fast-diff": "^1.1.2"[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "pretty-bytes": {[m
+       "version": "5.6.0",[m
+       "resolved": "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz",[m
+[36m@@ -36889,13 +37671,13 @@[m
+       }[m
+     },[m
+     "prop-types": {[m
+[31m-      "version": "15.7.2",[m
+[31m-      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz",[m
+[31m-      "integrity": "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==",[m
+[32m+[m[32m      "version": "15.8.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==",[m
+       "requires": {[m
+         "loose-envify": "^1.4.0",[m
+         "object-assign": "^4.1.1",[m
+[31m-        "react-is": "^16.8.1"[m
+[32m+[m[32m        "react-is": "^16.13.1"[m
+       }[m
+     },[m
+     "protobufjs": {[m
+[36m@@ -37074,6 +37856,11 @@[m
+         "performance-now": "^2.1.0"[m
+       }[m
+     },[m
+[32m+[m[32m    "random-id": {[m
+[32m+[m[32m      "version": "0.0.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/random-id/-/random-id-0.0.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-e1E0fCzmRQcSxeAFnCybHkVi4filc7c07INtA1BAjKFRfKyO+upZ3q0OhxMnyJ2PRwTSpy/jiMN0ZXwLtyQaBw=="[m
+[32m+[m[32m    },[m
+     "randombytes": {[m
+       "version": "2.1.0",[m
+       "resolved": "https://registry.npmjs.org/randombytes/-/randombytes-2.1.0.tgz",[m
+[36m@@ -37503,6 +38290,59 @@[m
+         "workbox-webpack-plugin": "5.1.4"[m
+       }[m
+     },[m
+[32m+[m[32m    "react-simple-chatbot": {[m
+[32m+[m[32m      "version": "0.6.1",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/react-simple-chatbot/-/react-simple-chatbot-0.6.1.tgz",[m
+[32m+[m[32m      "integrity": "sha512-q9y5GXwBvD+YvLgDVyDuZHYMkrcgIirm1FVV9RkR7XojPmbiX1lCzT6ib8U1M5zh42kTUBRnszXzkAGm9e0K8w==",[m
+[32m+[m[32m      "requires": {[m
+[32m+[m[32m        "eslint-config-prettier": "^4.1.0",[m
+[32m+[m[32m        "eslint-plugin-prettier": "^3.0.1",[m
+[32m+[m[32m        "flatted": "^2.0.0",[m
+[32m+[m[32m        "onchange": "^5.2.0",[m
+[32m+[m[32m        "prettier": "^1.16.4",[m
+[32m+[m[32m        "prop-types": "^15.6.0",[m
+[32m+[m[32m        "random-id": "0.0.2",[m
+[32m+[m[32m        "react": "^16.4.1",[m
+[32m+[m[32m        "react-dom": "^16.4.1"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "dependencies": {[m
+[32m+[m[32m        "flatted": {[m
+[32m+[m[32m          "version": "2.0.2",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/flatted/-/flatted-2.0.2.tgz",[m
+[32m+[m[32m          "integrity": "sha512-r5wGx7YeOwNWNlCA0wQ86zKyDLMQr+/RB8xy74M4hTphfmjlijTSSXGuH8rnvKZnfT9i+75zmd8jcKdMR4O6jA=="[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "react": {[m
+[32m+[m[32m          "version": "16.14.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "loose-envify": "^1.1.0",[m
+[32m+[m[32m            "object-assign": "^4.1.1",[m
+[32m+[m[32m            "prop-types": "^15.6.2"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "react-dom": {[m
+[32m+[m[32m          "version": "16.14.0",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz",[m
+[32m+[m[32m          "integrity": "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "loose-envify": "^1.1.0",[m
+[32m+[m[32m            "object-assign": "^4.1.1",[m
+[32m+[m[32m            "prop-types": "^15.6.2",[m
+[32m+[m[32m            "scheduler": "^0.19.1"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "scheduler": {[m
+[32m+[m[32m          "version": "0.19.1",[m
+[32m+[m[32m          "resolved": "https://registry.npmjs.org/scheduler/-/scheduler-0.19.1.tgz",[m
+[32m+[m[32m          "integrity": "sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==",[m
+[32m+[m[32m          "requires": {[m
+[32m+[m[32m            "loose-envify": "^1.1.0",[m
+[32m+[m[32m            "object-assign": "^4.1.1"[m
+[32m+[m[32m          }[m
+[32m+[m[32m        }[m
+[32m+[m[32m      }[m
+[32m+[m[32m    },[m
+     "react-tag-input-component": {[m
+       "version": "1.0.7",[m
+       "resolved": "https://registry.npmjs.org/react-tag-input-component/-/react-tag-input-component-1.0.7.tgz",[m
+[36m@@ -39576,6 +40416,11 @@[m
+         "punycode": "^2.1.1"[m
+       }[m
+     },[m
+[32m+[m[32m    "tree-kill": {[m
+[32m+[m[32m      "version": "1.2.2",[m
+[32m+[m[32m      "resolved": "https://registry.npmjs.org/tree-kill/-/tree-kill-1.2.2.tgz",[m
+[32m+[m[32m      "integrity": "sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A=="[m
+[32m+[m[32m    },[m
+     "tryer": {[m
+       "version": "1.0.1",[m
+       "resolved": "https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz",[m
+[1mdiff --git a/frontend/package.json b/frontend/package.json[m
+[1mindex 5f8bb137..7005583e 100644[m
+[1m--- a/frontend/package.json[m
+[1m+++ b/frontend/package.json[m
+[36m@@ -23,7 +23,9 @@[m
+     "react-router-dom": "^5.2.0",[m
+     "react-scripts": "4.0.3",[m
+     "react-tag-input-component": "^1.0.7",[m
+[31m-    "web-vitals": "^1.1.2"[m
+[32m+[m[32m    "web-vitals": "^1.1.2",[m
+[32m+[m[32m    "@chatscope/chat-ui-kit-react": "^1.10.1",[m
+[32m+[m[32m    "react-simple-chatbot": "^0.6.1"[m
+   },[m
+   "scripts": {[m
+     "start": "react-scripts start",[m
+[1mdiff --git a/frontend/public/index.html b/frontend/public/index.html[m
+[1mindex aa069f27..e099cad3 100644[m
+[1m--- a/frontend/public/index.html[m
+[1m+++ b/frontend/public/index.html[m
+[36m@@ -10,34 +10,14 @@[m
+       content="Web site created using create-react-app"[m
+     />[m
+     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />[m
+[31m-    <!--[m
+[31m-      manifest.json provides metadata used when your web app is installed on a[m
+[31m-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/[m
+[31m-    -->[m
+[32m+[m[41m    [m
+     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />[m
+[31m-    <!--[m
+[31m-      Notice the use of %PUBLIC_URL% in the tags above.[m
+[31m-      It will be replaced with the URL of the `public` folder during the build.[m
+[31m-      Only files inside the `public` folder can be referenced from the HTML.[m
+[31m-[m
+[31m-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will[m
+[31m-      work correctly both with client-side routing and a non-root public URL.[m
+[31m-      Learn how to configure a non-root public URL by running `npm run build`.[m
+[31m-    -->[m
+[32m+[m[41m    [m
+     <title>React App</title>[m
+   </head>[m
+   <body>[m
+     <noscript>You need to enable JavaScript to run this app.</noscript>[m
+     <div id="root"></div>[m
+[31m-    <!--[m
+[31m-      This HTML file is a template.[m
+[31m-      If you open it directly in the browser, you will see an empty page.[m
+[31m-[m
+[31m-      You can add webfonts, meta tags, or analytics to this file.[m
+[31m-      The build step will place the bundled scripts into the <body> tag.[m
+[31m-[m
+[31m-      To begin the development, run `npm start` or `yarn start`.[m
+[31m-      To create a production bundle, use `npm run build` or `yarn build`.[m
+[31m-    -->[m
+[32m+[m[41m    [m
+   </body>[m
+ </html>[m
+[1mdiff --git a/frontend/src/App.js b/frontend/src/App.js[m
+[1mindex 0f817025..b9e0e280 100644[m
+[1m--- a/frontend/src/App.js[m
+[1m+++ b/frontend/src/App.js[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-import "./App.css";[m
+[32m+[m
+ import {[m
+   BrowserRouter as Router,[m
+   Switch,[m
+[36m@@ -14,7 +14,7 @@[m [mimport { useDispatch, useSelector } from "react-redux";[m
+ import { login, logout, selectUser } from "./feature/userSlice";[m
+ import { useEffect } from "react";[m
+ import { auth } from "./firebase";[m
+[31m-[m
+[32m+[m[32mimport Chatbot from "./chatbot";[m
+ function App() {[m
+   const user = useSelector(selectUser);[m
+   const dispatch = useDispatch();[m
+[36m@@ -66,6 +66,7 @@[m [mfunction App() {[m
+           <PrivateRoute exact path="/" component={StackOverflow} />[m
+           <PrivateRoute exact path="/add-question" component={AddQuestion} />[m
+           <PrivateRoute exact path="/question" component={ViewQuestion} />[m
+[32m+[m[32m          <Route  path="/chatbot/:id" component={Chatbot} />[m
+         </Switch>[m
+       </Router>[m
+     </div>[m
+[1mdiff --git a/frontend/src/components/AddQuestion/index.js b/frontend/src/components/AddQuestion/index.js[m
+[1mindex 430b602d..6f15515b 100644[m
+[1m--- a/frontend/src/components/AddQuestion/index.js[m
+[1m+++ b/frontend/src/components/AddQuestion/index.js[m
+[36m@@ -39,10 +39,7 @@[m [mfunction Index() {[m
+       matchVisual: false,[m
+     },[m
+   };[m
+[31m-  /*[m
+[31m-   * Quill editor formats[m
+[31m-   * See https://quilljs.com/docs/formats/[m
+[31m-   */[m
+[32m+[m[41m  [m
+   Editor.formats = [[m
+     "header",[m
+     "font",[m
+[1mdiff --git a/frontend/src/components/Header/index.js b/frontend/src/components/Header/index.js[m
+[1mindex 90a8a7c3..9d0937e0 100644[m
+[1m--- a/frontend/src/components/Header/index.js[m
+[1m+++ b/frontend/src/components/Header/index.js[m
+[36m@@ -56,7 +56,7 @@[m [mfunction Header() {[m
+             [m
+           </a> */}[m
+ [m
+[31m-          <h3>Products</h3>[m
+[32m+[m[41m          [m
+         </div>[m
+         <div className="header-middle">[m
+           <div className="header-search-container">[m
+[36m@@ -75,21 +75,8 @@[m [mfunction Header() {[m
+               {...stringAvatar(user && user.displayName)}[m
+               onClick={() => auth.signOut()}[m
+             />[m
+[31m-            <InboxIcon />[m
+[31m-            <HelpIcon />[m
+[31m-            <svg[m
+[31m-              aria-hidden="true"[m
+[31m-              class="svg-icon iconStackExchange"[m
+[31m-              width="24"[m
+[31m-              height="24"[m
+[31m-              viewBox="0 0 18 18"[m
+[31m-              fill="rgba(0,0,0,0.5)"[m
+[31m-              style={{[m
+[31m-                cursor: "pointer",[m
+[31m-              }}[m
+[31m-            >[m
+[31m-              <path d="M15 1H3a2 2 0 00-2 2v2h16V3a2 2 0 00-2-2ZM1 13c0 1.1.9 2 2 2h8v3l3-3h1a2 2 0 002-2v-2H1v2Zm16-7H1v4h16V6Z"></path>[m
+[31m-            </svg>[m
+[32m+[m[41m           [m
+[32m+[m[41m           [m
+             {/* <img[m
+               src="https://symbols-electrical.getvecta.com/stencil_96/73_stack-exchange-icon.bbd1a14a04.svg"[m
+               alt="stack-exchange"[m
+[1mdiff --git a/frontend/src/components/StackOverflow/AllQuestions.js b/frontend/src/components/StackOverflow/AllQuestions.js[m
+[1mindex 331673fd..9b32df11 100644[m
+[1m--- a/frontend/src/components/StackOverflow/AllQuestions.js[m
+[1m+++ b/frontend/src/components/StackOverflow/AllQuestions.js[m
+[36m@@ -32,6 +32,11 @@[m [mfunction AllQuestions({ data }) {[m
+         </div>[m
+         <div className="question-answer">[m
+           <Link to={`/question?q=${data?._id}`}>{data.title}</Link>[m
+[32m+[m[32m          <Link to={`/chatbot/${data?.title}`} target="_blank">[m
+[32m+[m[32m            <button style={{width: "150px",margin:"10px",background:"#10A37F"}}>Ans by chatGPT</button>[m
+[32m+[m[32m          </Link>[m
+[32m+[m[41m          [m
+[32m+[m
+ [m
+           {/* <a href=>{data.title}</a> */}[m
+ [m
+[1mdiff --git a/frontend/src/components/StackOverflow/Sidebar.js b/frontend/src/components/StackOverflow/Sidebar.js[m
+[1mindex 777125d3..6a565c0d 100644[m
+[1m--- a/frontend/src/components/StackOverflow/Sidebar.js[m
+[1m+++ b/frontend/src/components/StackOverflow/Sidebar.js[m
+[36m@@ -6,6 +6,7 @@[m [mimport "./css/Sidebar.css";[m
+ import { Link } from "react-router-dom";[m
+ [m
+ function Sidebar() {[m
+[32m+[m[32m  const jobs = 'https://telegram.me/+hU-QXyyg_FdiYjE1'[m
+   return ([m
+     <div className="sidebar">[m
+       <div className="sidebar-container">[m
+[36m@@ -25,10 +26,7 @@[m [mfunction Sidebar() {[m
+                 {/* <a href="/">Question</a> */}[m
+               </div>[m
+ [m
+[31m-              <div className="tags">[m
+[31m-                <p>Tags</p>[m
+[31m-                <p>Users</p>[m
+[31m-              </div>[m
+[32m+[m[41m             [m
+             </div>[m
+           </div>[m
+           <div className="sidebar-option">[m
+[36m@@ -49,9 +47,9 @@[m [mfunction Sidebar() {[m
+                 style={{[m
+                   margin: "10px 20px",[m
+                 }}[m
+[31m-                to="/"[m
+[32m+[m[32m                target="_blank"[m
+               >[m
+[31m-                Jobs[m
+[32m+[m[32m                <a href={jobs} target="_blank">Jobs</a>[m
+               </Link>[m
+               {/* <a[m
+                 style={{[m
+[36m@@ -75,7 +73,7 @@[m [mfunction Sidebar() {[m
+                 }}[m
+                 to="/"[m
+               >[m
+[31m-                Companies[m
+[32m+[m[41m                [m
+               </Link>[m
+             </div>[m
+           </div>[m
+[36m@@ -83,8 +81,8 @@[m [mfunction Sidebar() {[m
+             <p>TEAMS</p>[m
+             <div className="link-tag">[m
+               <WorkIcon />[m
+[31m-              <Link to="/">Companies</Link>[m
+[31m-              {/* <a href="/">Companies</a> */}[m
+[32m+[m[41m              [m
+[32m+[m[32m              { <a href="https://www.business-standard.com/companies" target="_blank    ">Companies</a> }[m
+             </div>[m
+           </div>[m
+         </div>[m
