@@ -28,29 +28,29 @@ complex user interactions and provide a seamless experience for the community me
 
 ![login page](https://user-images.githubusercontent.com/40684802/234973829-c0df969b-354f-4128-96f3-d002b218897d.png)
 
-                                 # login page  
+   # Login page  
                                  
                                  
-                       ![home page ](https://user-images.githubusercontent.com/40684802/234974137-4e1e5b69-8652-4f40-a7d5-c7eaeec0fe8d.png)
+  ![home page ](https://user-images.githubusercontent.com/40684802/234974137-4e1e5b69-8652-4f40-a7d5-c7eaeec0fe8d.png)
           
-                                 # home page
+   # Home page
                                  
                                  
-                                 ![ask question ](https://user-images.githubusercontent.com/40684802/234974312-fc7649cd-e452-4e7a-82f8-b92765fc7980.png)
+   ![ask question ](https://user-images.githubusercontent.com/40684802/234974312-fc7649cd-e452-4e7a-82f8-b92765fc7980.png)
 
-                                # ask question 
+   # Ask question                            
                                 
-                                
-                                ![job](https://user-images.githubusercontent.com/40684802/234974434-3c048cac-a902-4cda-b889-dcec4734f2d9.png)
+   ![job](https://user-images.githubusercontent.com/40684802/234974434-3c048cac-a902-4cda-b889-dcec4734f2d9.png)
       
-                                 # job page 
+   # Job page 
                                  
-                                 ![comp](https://user-images.githubusercontent.com/40684802/234974614-935be807-50a2-453d-876b-9f3465fdfb0b.png)
+   ![comp](https://user-images.githubusercontent.com/40684802/234974614-935be807-50a2-453d-876b-9f3465fdfb0b.png)
                                  
+   # Company page 
                                  
-                                 ![gpt](https://user-images.githubusercontent.com/40684802/234974754-d181b224-b55f-47ba-986a-abe8f77b8e1b.png)
+   ![gpt](https://user-images.githubusercontent.com/40684802/234974754-d181b224-b55f-47ba-986a-abe8f77b8e1b.png)
 
-                                 # chatGPT
+   # ChatGPT
 
                                  
                                  
